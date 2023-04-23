@@ -1,13 +1,13 @@
 import json
 
 
-def cv_exists(cvs, cv):
-    found = False
-    for cv_ in cvs:
-        if cv_['cv_id'] == cv['cv_id']:
-            found = True
-            return found
-    return found
+# def cv_exists(cvs, cv):
+#     found = False
+#     for cv_ in cvs:
+#         if cv_['cv_id'] == cv['cv_id']:
+#             found = True
+#             return found
+#     return found
 
 
 with open("data/eval.json") as fp:
@@ -16,10 +16,12 @@ with open("data/eval.json") as fp:
 
 offers = []
 cvs = []
+i = 0
 for offer in data:
     for cv in offer['ranked_cvs']:
-        if not cv_exists(cvs, cv):
-            cvs.append(cv)
+        i += 1
+        cv['cv_id'] = i
+        cvs.append(cv)
     del offer['ranked_cvs']
     offers.append(offer)
 

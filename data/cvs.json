@@ -1,6 +1,6 @@
 [
     {
-        "cv_id": 0,
+        "cv_id": 1,
         "cv_title": "Senior Backend Developer",
         "cv_skills": [
             "Node.js",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "cv_id": 1,
+        "cv_id": 2,
         "cv_title": "Node.js Backend Developer",
         "cv_skills": [
             "Node.js",
@@ -49,7 +49,7 @@
         ]
     },
     {
-        "cv_id": 2,
+        "cv_id": 3,
         "cv_title": "Full Stack Developer",
         "cv_skills": [
             "Node.js",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "cv_id": 3,
+        "cv_id": 4,
         "cv_title": "Software Engineer",
         "cv_skills": [
             "Java",
@@ -84,24 +84,6 @@
             "Experience with designing and implementing RESTful APIs",
             "Strong skills in SQL database",
             "Proficiency in Git version control system"
-        ]
-    },
-    {
-        "cv_id": 4,
-        "cv_title": "Backend Developer",
-        "cv_skills": [
-            "Node.js",
-            "Express",
-            "JavaScript",
-            "MongoDB",
-            "GraphQL"
-        ],
-        "cv_experiences": [
-            "3+ years of experience in backend development",
-            "Expertise in Node.js and Express frameworks",
-            "Strong skills in JavaScript programming language",
-            "Experience with MongoDB and GraphQL",
-            "Knowledge of web application architecture"
         ]
     },
     {
@@ -124,6 +106,2818 @@
     },
     {
         "cv_id": 6,
+        "cv_title": "Database Administrator",
+        "cv_skills": [
+            "Database Administration",
+            "SQL",
+            "NoSQL",
+            "Data Backup and Recovery",
+            "Database Security",
+            "SQL Server",
+            "Postgres security"
+        ],
+        "cv_experiences": [
+            "8+ years of experience in database administration",
+            "Expertise in both SQL and NoSQL databases",
+            "Experience with data backup and recovery processes",
+            "Knowledge of database security practices",
+            "Experience with performance tuning and optimization"
+        ]
+    },
+    {
+        "cv_id": 7,
+        "cv_title": "Senior Database Administrator",
+        "cv_skills": [
+            "SQL",
+            "PostgreSQL",
+            "MongoDB",
+            "Database replication",
+            "Database migration",
+            "MySQL"
+        ],
+        "cv_experiences": [
+            "8+ years of experience in database administration",
+            "Expertise in SQL programming language",
+            "Experience with PostgreSQL and MongoDB",
+            "Experience with database replication and high availability techniques",
+            "Experience with database migration and upgrade processes"
+        ]
+    },
+    {
+        "cv_id": 8,
+        "cv_title": "Database Administrator",
+        "cv_skills": [
+            "SQL",
+            "Oracle Database",
+            "MySQL",
+            "Database tuning",
+            "Database security"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in database administration",
+            "Expertise in SQL programming language",
+            "Experience with Oracle Database and MySQL",
+            "Experience with database tuning and optimization techniques",
+            "Experience with database security and access controls"
+        ]
+    },
+    {
+        "cv_id": 9,
+        "cv_title": "Database Developer",
+        "cv_skills": [
+            "SQL",
+            "Python",
+            "Data modeling",
+            "ETL",
+            "Data warehousing"
+        ],
+        "cv_experiences": [
+            "4+ years of experience in database development",
+            "Expertise in SQL programming language",
+            "Experience with Python programming language for data manipulation",
+            "Experience with data modeling techniques",
+            "Experience with ETL processes and data warehousing concepts"
+        ]
+    },
+    {
+        "cv_id": 10,
+        "cv_title": "Backend engineer",
+        "cv_skills": [
+            "SQL",
+            "Python",
+            "SQLAlchemy",
+            "Flask",
+            "Django"
+        ],
+        "cv_experiences": [
+            "4+ years of experience in database development",
+            "Expertise in SQL programming language",
+            "Experience with Python programming language for data manipulation",
+            "Backend development"
+        ]
+    },
+    {
+        "cv_id": 11,
+        "cv_title": "Senior DevOps Engineer",
+        "cv_skills": [
+            "Linux",
+            "AWS",
+            "Kubernetes",
+            "Ansible",
+            "Git",
+            "Github actions",
+            "Gitlab CI",
+            "Terraform",
+            "Docker Compose",
+            "Podman",
+            "Docker",
+            "Go programming"
+        ],
+        "cv_experiences": [
+            "7+ years of experience in DevOps engineering",
+            "Expertise in Linux operating system",
+            "Experience with AWS cloud-based services",
+            "Experience with container orchestration technology like Kubernetes",
+            "Experience with configuration management tools like Ansible",
+            "Proficiency in Git version control system"
+        ]
+    },
+    {
+        "cv_id": 12,
+        "cv_title": "DevOps Engineer",
+        "cv_skills": [
+            "Linux",
+            "AWS",
+            "Docker",
+            "Ansible",
+            "Jenkins",
+            "Gitlab",
+            "Docker swarm",
+            "Docker Compose",
+            "LXC"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in DevOps engineering",
+            "Expertise in Linux operating system",
+            "Experience with AWS cloud-based services",
+            "Experience with containerization technology such as Docker",
+            "Experience with configuration management tools like Ansible",
+            "Experience with continuous integration and deployment tools like Jenkins"
+        ]
+    },
+    {
+        "cv_id": 13,
+        "cv_title": "Cloud Engineer",
+        "cv_skills": [
+            "AWS",
+            "Azure",
+            "Kubernetes",
+            "Terraform",
+            "Python",
+            "Golang"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in cloud engineering",
+            "Expertise in AWS and Azure cloud-based services",
+            "Experience with container orchestration technology like Kubernetes",
+            "Experience with infrastructure-as-code tools like Terraform",
+            "Strong skills in Python programming language"
+        ]
+    },
+    {
+        "cv_id": 14,
+        "cv_title": "Infrastructure Engineer",
+        "cv_skills": [
+            "AWS",
+            "Terraform",
+            "Ansible",
+            "Puppet",
+            "Linux"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in infrastructure engineering",
+            "Expertise in AWS cloud-based services",
+            "Experience with infrastructure-as-code tools like Terraform",
+            "Experience with configuration management tools like Ansible and Puppet",
+            "Expertise in Linux operating system"
+        ]
+    },
+    {
+        "cv_id": 15,
+        "cv_title": "Site Reliability Engineer",
+        "cv_skills": [
+            "Linux",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Python"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in site reliability engineering",
+            "Expertise in Linux operating system",
+            "Experience with AWS cloud-based services",
+            "Experience with containerization technology like Docker and Kubernetes",
+            "Strong skills in Python programming language"
+        ]
+    },
+    {
+        "cv_id": 16,
+        "cv_title": "Backend Developer",
+        "cv_skills": [
+            "Node.js",
+            "Express",
+            "JavaScript",
+            "MongoDB",
+            "GraphQL"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in backend development",
+            "Expertise in Node.js and Express frameworks",
+            "Strong skills in JavaScript programming language",
+            "Experience with MongoDB and GraphQL",
+            "Knowledge of web application architecture"
+        ]
+    },
+    {
+        "cv_id": 17,
+        "cv_title": "Senior Android Developer",
+        "cv_skills": [
+            "Java",
+            "Kotlin",
+            "Android SDK",
+            "RxJava",
+            "MVP/MVVM",
+            "Jetpack Compose",
+            "UI Design",
+            "Figma",
+            "Adobe",
+            "Version control systems"
+        ],
+        "cv_experiences": [
+            "6+ years of experience in Android app development",
+            "Expertise in Java and Kotlin programming languages",
+            "Strong knowledge of Android SDK and its core components",
+            "Experience with reactive programming using RxJava",
+            "Experience with MVP/MVVM design patterns"
+        ]
+    },
+    {
+        "cv_id": 18,
+        "cv_title": "Android Developer",
+        "cv_skills": [
+            "Java",
+            "Android SDK",
+            "RESTful APIs",
+            "SQLite",
+            "Git",
+            "Adobe"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in Android app development",
+            "Expertise in Java programming language",
+            "Strong knowledge of Android SDK and its core components",
+            "Experience with RESTful APIs and SQLite database",
+            "Experience with Git version control system"
+        ]
+    },
+    {
+        "cv_id": 19,
+        "cv_title": "Mobile Developer",
+        "cv_skills": [
+            "Java",
+            "Swift",
+            "React Native",
+            "Firebase",
+            "AWS"
+        ],
+        "cv_experiences": [
+            "4+ years of experience in mobile app development",
+            "Expertise in Java and Swift programming languages",
+            "Experience with React Native framework for mobile app development",
+            "Experience with Firebase and AWS for mobile app backend services",
+            "Experience with mobile app testing and debugging"
+        ]
+    },
+    {
+        "cv_id": 20,
+        "cv_title": "Junior Android Developer",
+        "cv_skills": [
+            "Java",
+            "Android SDK",
+            "RESTful APIs",
+            "Firebase",
+            "Agile methodologies"
+        ],
+        "cv_experiences": [
+            "1+ years of experience in Android app development",
+            "Strong knowledge of Java programming language",
+            "Good understanding of Android SDK and its core components",
+            "Experience with RESTful APIs and Firebase backend services",
+            "Experience with Agile methodologies for software development"
+        ]
+    },
+    {
+        "cv_id": 21,
+        "cv_title": "Mobile Application Developer",
+        "cv_skills": [
+            "Java",
+            "Objective-C",
+            "Swift",
+            "React Native",
+            "Firebase"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in mobile app development",
+            "Expertise in Java, Objective-C and Swift programming languages",
+            "Experience with React Native framework for mobile app development",
+            "Experience with Firebase for mobile app backend services",
+            "Experience with mobile app testing and debugging"
+        ]
+    },
+    {
+        "cv_id": 22,
+        "cv_title": "Data Engineer",
+        "cv_skills": [
+            "Python",
+            "SQL",
+            "Apache Spark",
+            "Airflow",
+            "Data modeling",
+            "Kafka",
+            "Data processing tools"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in data engineering",
+            "Expertise in Python programming language and SQL",
+            "Experience with Apache Spark for large-scale data processing",
+            "Experience with Airflow for workflow management and scheduling",
+            "Experience with data modeling techniques and data warehousing concepts"
+        ]
+    },
+    {
+        "cv_id": 23,
+        "cv_title": "Big Data Engineer",
+        "cv_skills": [
+            "Hadoop",
+            "Spark",
+            "Scala",
+            "NoSQL",
+            "Data pipeline"
+        ],
+        "cv_experiences": [
+            "4+ years of experience in big data engineering",
+            "Expertise in Hadoop ecosystem and Spark framework",
+            "Experience with Scala programming language and NoSQL databases",
+            "Experience with building and maintaining data pipelines",
+            "Experience with performance tuning and optimization"
+        ]
+    },
+    {
+        "cv_id": 24,
+        "cv_title": "Data Analyst",
+        "cv_skills": [
+            "SQL",
+            "Python",
+            "Data visualization",
+            "ETL",
+            "Data modeling",
+            "Tableau",
+            "PowerBI"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in data analysis",
+            "Expertise in SQL and Python programming languages",
+            "Experience with data visualization tools like Tableau",
+            "Experience with ETL processes and tools",
+            "Experience with data modeling techniques and data warehousing concepts"
+        ]
+    },
+    {
+        "cv_id": 25,
+        "cv_title": "Data Scientist",
+        "cv_skills": [
+            "Python",
+            "Machine learning",
+            "Deep learning",
+            "Big data",
+            "Data visualization"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in data science",
+            "Expertise in Python programming language and machine learning techniques",
+            "Experience with deep learning frameworks like TensorFlow and Keras",
+            "Experience with big data processing and analysis",
+            "Experience with data visualization tools like Matplotlib and Seaborn"
+        ]
+    },
+    {
+        "cv_id": 26,
+        "cv_title": "Database Administrator",
+        "cv_skills": [
+            "SQL",
+            "Database management",
+            "Backup and recovery",
+            "Performance tuning",
+            "Disaster recovery",
+            "Database Security"
+        ],
+        "cv_experiences": [
+            "4+ years of experience in database administration",
+            "Expertise in SQL and database management techniques",
+            "Experience with backup and recovery procedures",
+            "Experience with performance tuning and optimization",
+            "Experience with disaster recovery and business continuity planning"
+        ]
+    },
+    {
+        "cv_id": 27,
+        "cv_title": "Machine Learning Engineer",
+        "cv_skills": [
+            "Python",
+            "Machine learning",
+            "Pytorch",
+            "Tensorflow",
+            "Jax framework",
+            "Deep learning",
+            "Big data",
+            "Hadoop",
+            "Data visualization",
+            "Distributed systems",
+            "Pandas",
+            "TF extended",
+            "MLops tools"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in machine learning engineering",
+            "Expertise in Python programming language and machine learning techniques",
+            "Experience with deep learning frameworks like TensorFlow and Keras",
+            "Experience with big data processing and analysis",
+            "Experience with data visualization tools like Matplotlib and Seaborn",
+            "Experience with machine learning and deep learning frameworks"
+        ]
+    },
+    {
+        "cv_id": 28,
+        "cv_title": "Data Scientist",
+        "cv_skills": [
+            "Python",
+            "Machine learning",
+            "Deep learning",
+            "Numpy",
+            "Data visualization",
+            "Matplotlib",
+            "Pandas",
+            "MLops"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in data science",
+            "Expertise in Python programming language and machine learning techniques",
+            "Experience with deep learning frameworks like TensorFlow and Keras",
+            "Experience with big data processing and analysis",
+            "Experience with data visualization tools like Matplotlib and Seaborn"
+        ]
+    },
+    {
+        "cv_id": 29,
+        "cv_title": "Computer Vision Engineer",
+        "cv_skills": [
+            "Python",
+            "Computer vision",
+            "Image processing",
+            "Deep learning",
+            "Machine learning",
+            "Tensorflow",
+            "Reinforcement learning"
+        ],
+        "cv_experiences": [
+            "4+ years of experience in computer vision engineering",
+            "Expertise in Python programming language and computer vision techniques",
+            "Experience with image processing and analysis",
+            "Experience with deep learning and machine learning techniques for computer vision",
+            "Experience with building computer vision systems"
+        ]
+    },
+    {
+        "cv_id": 30,
+        "cv_title": "Data Engineer",
+        "cv_skills": [
+            "Python",
+            "SQL",
+            "Apache Spark",
+            "Airflow",
+            "Data modeling"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in data engineering",
+            "Expertise in Python programming language and SQL",
+            "Experience with Apache Spark for large-scale data processing",
+            "Experience with Airflow for workflow management and scheduling",
+            "Experience with data modeling techniques and data warehousing concepts"
+        ]
+    },
+    {
+        "cv_id": 31,
+        "cv_title": "Software Engineer",
+        "cv_skills": [
+            "Python",
+            "Java",
+            "Algorithms",
+            "Data structures",
+            "Distributed systems"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in software engineering",
+            "Expertise in Python and Java programming languages",
+            "Experience with designing and implementing algorithms and data structures",
+            "Experience with building distributed systems",
+            "Experience with working on large-scale software projects"
+        ]
+    },
+    {
+        "cv_id": 32,
+        "cv_title": "Senior Network Engineer",
+        "cv_skills": [
+            "Routing protocols",
+            "Network Architecture and Design",
+            "Switching technologies",
+            "Firewall configuration",
+            "VPN",
+            "GNS3",
+            "Network monitoring",
+            "Network Security (Firewalls, IDS/IPS, VPNs)",
+            "Cloud network architecture",
+            "5G network design and architecture",
+            "HAProxy",
+            "Ansible",
+            "Puppet",
+            "SD-WAN tools",
+            "Nagios"
+        ],
+        "cv_experiences": [
+            "8+ years of experience in network engineering",
+            "Experience with switching technologies like VLANs and Spanning Tree",
+            "Experience with firewall configuration and VPN setup",
+            "Experience with network monitoring"
+        ]
+    },
+    {
+        "cv_id": 33,
+        "cv_title": "Network Engineer",
+        "cv_skills": [
+            "TCP/IP Networking",
+            "Switching technologies",
+            "Firewall configuration",
+            "VPN",
+            "Network monitoring",
+            "Network Troubleshooting and Diagnostics",
+            "AWS",
+            "Cloud Networking (Public, Private, and Hybrid Clouds)",
+            "Wireless Networking",
+            "OpenFlow"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in networking and network security",
+            "Experience with switching and routing technologies",
+            "Experience with firewall",
+            "Experience with network monitoring tools like Nagios"
+        ]
+    },
+    {
+        "cv_id": 34,
+        "cv_title": "Network Administrator",
+        "cv_skills": [
+            "Routing protocols",
+            "Switching technologies",
+            "Firewall configuration",
+            "OpenVPN",
+            "WireGuard",
+            "Network monitoring",
+            "Network Administration (DNS, DHCP, Active Directory)",
+            "Windows Server",
+            "BIND",
+            "Linux",
+            "Puppet",
+            "Network Automation and Orchestration"
+        ],
+        "cv_experiences": [
+            "4+ years of experience in network administration",
+            "Expertise in routing protocols like OSPF and BGP",
+            "Experience with switching technologies like VLANs and Spanning Tree",
+            "Experience with firewall configuration and VPN setup"
+        ]
+    },
+    {
+        "cv_id": 35,
+        "cv_title": "Network Security Engineer",
+        "cv_skills": [
+            "Routing protocols",
+            "Switching technologies",
+            "Firewall configuration",
+            "VPN",
+            "Network monitoring",
+            "IoT security"
+        ],
+        "cv_experiences": [
+            "6+ years of experience in network security engineering",
+            "Expertise in routing protocols like OSPF and BGP",
+            "Experience with switching technologies like VLANs and Spanning Tree",
+            "Experience with firewall configuration and VPN setup",
+            "Network administration engineer"
+        ]
+    },
+    {
+        "cv_id": 36,
+        "cv_title": "IT Support Specialist",
+        "cv_skills": [
+            "Networking",
+            "Network troubleshooting",
+            "Technical support",
+            "Troubleshooting",
+            "Helpdesk support",
+            "Customer service",
+            "Windows",
+            "Microsoft Exchange"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in IT support",
+            "Expertise in networking and technical support",
+            "Experience with troubleshooting hardware and software issues",
+            "Experience with helpdesk support and customer service",
+            "Experience with managing IT assets and inventory"
+        ]
+    },
+    {
+        "cv_id": 37,
+        "cv_title": "Frontend Web Developer",
+        "cv_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Responsive Design"
+        ],
+        "cv_experiences": [
+            "Frontend Developer",
+            "UI Designer"
+        ]
+    },
+    {
+        "cv_id": 38,
+        "cv_title": "Full Stack Developer",
+        "cv_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js"
+        ],
+        "cv_experiences": [
+            "Full Stack Developer",
+            "Frontend Developer"
+        ]
+    },
+    {
+        "cv_id": 39,
+        "cv_title": "Web Designer",
+        "cv_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Photoshop",
+            "Illustrator"
+        ],
+        "cv_experiences": [
+            "Web Designer",
+            "Graphic Designer"
+        ]
+    },
+    {
+        "cv_id": 40,
+        "cv_title": "UI Developer",
+        "cv_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Angular",
+            "Bootstrap"
+        ],
+        "cv_experiences": [
+            "UI Developer",
+            "UX Designer"
+        ]
+    },
+    {
+        "cv_id": 41,
+        "cv_title": "Backend Developer",
+        "cv_skills": [
+            "HTML",
+            "CSS",
+            "Node.js",
+            "Express",
+            "MongoDB"
+        ],
+        "cv_experiences": [
+            "Backend Developer",
+            "Full Stack Developer"
+        ]
+    },
+    {
+        "cv_id": 42,
+        "cv_title": "Backend Developer",
+        "cv_skills": [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "RESTful APIs",
+            "Docker"
+        ],
+        "cv_experiences": [
+            "Backend Developer",
+            "Full Stack Developer"
+        ]
+    },
+    {
+        "cv_id": 43,
+        "cv_title": "Full Stack Developer",
+        "cv_skills": [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "React",
+            "Docker"
+        ],
+        "cv_experiences": [
+            "Full Stack Developer",
+            "Backend Developer"
+        ]
+    },
+    {
+        "cv_id": 44,
+        "cv_title": "Backend Engineer",
+        "cv_skills": [
+            "Node.js",
+            "Express",
+            "MySQL",
+            "RESTful APIs",
+            "Docker"
+        ],
+        "cv_experiences": [
+            "Backend Engineer",
+            "Software Engineer"
+        ]
+    },
+    {
+        "cv_id": 45,
+        "cv_title": "DevOps Engineer",
+        "cv_skills": [
+            "Node.js",
+            "Express",
+            "Docker",
+            "Kubernetes",
+            "CI/CD"
+        ],
+        "cv_experiences": [
+            "DevOps Engineer",
+            "Backend Developer"
+        ]
+    },
+    {
+        "cv_id": 46,
+        "cv_title": "Software Developer",
+        "cv_skills": [
+            "Node.js",
+            "Express",
+            "Java",
+            "Spring Boot",
+            "Docker"
+        ],
+        "cv_experiences": [
+            "Software Developer",
+            "Backend Developer"
+        ]
+    },
+    {
+        "cv_id": 47,
+        "cv_title": "Data Scientist",
+        "cv_skills": [
+            "Python",
+            "R",
+            "Machine Learning",
+            "SQL",
+            "Data Visualization"
+        ],
+        "cv_experiences": [
+            "Data Scientist",
+            "Data Analyst"
+        ]
+    },
+    {
+        "cv_id": 48,
+        "cv_title": "Data Analyst",
+        "cv_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "Data Visualization",
+            "Excel"
+        ],
+        "cv_experiences": [
+            "Data Analyst",
+            "Data Scientist"
+        ]
+    },
+    {
+        "cv_id": 49,
+        "cv_title": "Machine Learning Engineer",
+        "cv_skills": [
+            "Python",
+            "R",
+            "Machine Learning",
+            "TensorFlow",
+            "Keras"
+        ],
+        "cv_experiences": [
+            "Machine Learning Engineer",
+            "Data Scientist"
+        ]
+    },
+    {
+        "cv_id": 50,
+        "cv_title": "Big Data Engineer",
+        "cv_skills": [
+            "Python",
+            "Spark",
+            "Hadoop",
+            "SQL",
+            "Data Visualization"
+        ],
+        "cv_experiences": [
+            "Big Data Engineer",
+            "Data Scientist"
+        ]
+    },
+    {
+        "cv_id": 51,
+        "cv_title": "Software Engineer",
+        "cv_skills": [
+            "Python",
+            "R",
+            "Java",
+            "SQL",
+            "Data Visualization"
+        ],
+        "cv_experiences": [
+            "Software Engineer",
+            "Data Scientist"
+        ]
+    },
+    {
+        "cv_id": 52,
+        "cv_title": "Mobile App Developer",
+        "cv_skills": [
+            "Swift",
+            "Kotlin",
+            "React Native",
+            "Firebase",
+            "RESTful APIs"
+        ],
+        "cv_experiences": [
+            "Mobile App Developer",
+            "Software Engineer"
+        ]
+    },
+    {
+        "cv_id": 53,
+        "cv_title": "iOS Developer",
+        "cv_skills": [
+            "Swift",
+            "Objective-C",
+            "React Native",
+            "Firebase",
+            "RESTful APIs"
+        ],
+        "cv_experiences": [
+            "iOS Developer",
+            "Mobile App Developer"
+        ]
+    },
+    {
+        "cv_id": 54,
+        "cv_title": "Android Developer",
+        "cv_skills": [
+            "Kotlin",
+            "Java",
+            "React Native",
+            "Firebase",
+            "RESTful APIs"
+        ],
+        "cv_experiences": [
+            "Android Developer",
+            "Mobile App Developer"
+        ]
+    },
+    {
+        "cv_id": 55,
+        "cv_title": "Software Engineer",
+        "cv_skills": [
+            "Swift",
+            "Kotlin",
+            "Java",
+            "Firebase",
+            "RESTful APIs"
+        ],
+        "cv_experiences": [
+            "Software Engineer",
+            "Mobile App Developer"
+        ]
+    },
+    {
+        "cv_id": 56,
+        "cv_title": "Full Stack Developer",
+        "cv_skills": [
+            "Swift",
+            "Kotlin",
+            "React",
+            "Firebase",
+            "RESTful APIs"
+        ],
+        "cv_experiences": [
+            "Full Stack Developer",
+            "Mobile App Developer"
+        ]
+    },
+    {
+        "cv_id": 57,
+        "cv_title": "Product Manager",
+        "cv_skills": [
+            "Product Management",
+            "Agile",
+            "Scrum",
+            "User Experience",
+            "Data Analysis"
+        ],
+        "cv_experiences": [
+            "Product Manager",
+            "Project Manager"
+        ]
+    },
+    {
+        "cv_id": 58,
+        "cv_title": "Project Manager",
+        "cv_skills": [
+            "Project Management",
+            "Agile",
+            "Scrum",
+            "User Experience",
+            "Data Analysis"
+        ],
+        "cv_experiences": [
+            "Project Manager",
+            "Product Manager"
+        ]
+    },
+    {
+        "cv_id": 59,
+        "cv_title": "Scrum Master",
+        "cv_skills": [
+            "Scrum",
+            "Agile",
+            "Product Management",
+            "Coaching",
+            "Data Analysis"
+        ],
+        "cv_experiences": [
+            "Scrum Master",
+            "Product Manager"
+        ]
+    },
+    {
+        "cv_id": 60,
+        "cv_title": "User Experience Designer",
+        "cv_skills": [
+            "User Experience",
+            "UI Design",
+            "Product Management",
+            "Agile",
+            "Scrum"
+        ],
+        "cv_experiences": [
+            "User Experience Designer",
+            "Product Manager"
+        ]
+    },
+    {
+        "cv_id": 61,
+        "cv_title": "Business Analyst",
+        "cv_skills": [
+            "Data Analysis",
+            "Product Management",
+            "Agile",
+            "Scrum",
+            "SQL"
+        ],
+        "cv_experiences": [
+            "Business Analyst",
+            "Product Manager"
+        ]
+    },
+    {
+        "cv_id": 62,
+        "cv_title": "DevOps",
+        "cv_skills": [
+            "Docker",
+            "Kubernetes",
+            "Linux",
+            "CI/CD",
+            "AWS",
+            "Ansible",
+            "Jenkins"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en DevOps",
+            "Expertise en Docker et Kubernetes",
+            "Exp\u00e9rience avec les pipelines CI/CD, les services AWS, Jenkins et Ansible"
+        ]
+    },
+    {
+        "cv_id": 63,
+        "cv_title": "D\u00e9veloppeur Fullstack",
+        "cv_skills": [
+            "Java",
+            "JavaScript",
+            "ReactJS",
+            "Linux",
+            "AWS"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en d\u00e9veloppement Fullstack",
+            "Connaissance avanc\u00e9e de Java, JavaScript et ReactJS",
+            "Exp\u00e9rience avec les d\u00e9ploiements Linux et les services AWS"
+        ]
+    },
+    {
+        "cv_id": 64,
+        "cv_title": "Administrateur Syst\u00e8me",
+        "cv_skills": [
+            "Linux",
+            "Ansible",
+            "Kubernetes",
+            "Azure"
+        ],
+        "cv_experiences": [
+            "5 ans d'exp\u00e9rience en administration syst\u00e8me",
+            "Expertise en Linux et Ansible",
+            "Connaissance pratique de Kubernetes et Azure"
+        ]
+    },
+    {
+        "cv_id": 65,
+        "cv_title": "Ing\u00e9nieur Cloud",
+        "cv_skills": [
+            "AWS",
+            "Kubernetes",
+            "Docker",
+            "Terraform"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en ing\u00e9nierie Cloud",
+            "Expertise en AWS, Kubernetes et Docker",
+            "Connaissance pratique de Terraform"
+        ]
+    },
+    {
+        "cv_id": 66,
+        "cv_title": "D\u00e9veloppeur Python",
+        "cv_skills": [
+            "Python",
+            "Linux",
+            "Docker",
+            "CI/CD"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en d\u00e9veloppement Python",
+            "Connaissance avanc\u00e9e de l'OS Linux",
+            "Exp\u00e9rience avec les d\u00e9ploiements Docker et les pipelines CI/CD"
+        ]
+    },
+    {
+        "cv_id": 67,
+        "cv_title": "Ing\u00e9nieur R\u00e9seau",
+        "cv_skills": [
+            "LAN",
+            "WAN",
+            "Firewalls",
+            "Switches",
+            "Routing protocols",
+            "VPN",
+            "Load balancing",
+            "TCP/IP",
+            "Linux",
+            "Python"
+        ],
+        "cv_experiences": [
+            "2+ years of experience in network engineering",
+            "Expertise in LAN, WAN, routing protocols, VPNs, and TCP/IP",
+            "Strong skills in firewalls, switches, and load balancing",
+            "Experience with Linux and Python"
+        ]
+    },
+    {
+        "cv_id": 68,
+        "cv_title": "Technicien R\u00e9seau",
+        "cv_skills": [
+            "LAN",
+            "WAN",
+            "Firewalls",
+            "Switches",
+            "Routing protocols",
+            "VPN",
+            "TCP/IP"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in network troubleshooting and maintenance",
+            "Expertise in LAN, WAN, routing protocols, VPNs, and TCP/IP",
+            "Strong skills in firewalls and switches",
+            "Experience with network monitoring tools"
+        ]
+    },
+    {
+        "cv_id": 69,
+        "cv_title": "Ing\u00e9nieur Syst\u00e8mes & R\u00e9seaux",
+        "cv_skills": [
+            "LAN",
+            "WAN",
+            "Firewalls",
+            "Switches",
+            "Routing protocols",
+            "VPN",
+            "Load balancing",
+            "TCP/IP",
+            "Windows Server",
+            "Active Directory"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in IT infrastructure",
+            "Expertise in LAN, WAN, routing protocols, VPNs, and TCP/IP",
+            "Strong skills in firewalls, switches, and load balancing",
+            "Experience with Windows Server and Active Directory"
+        ]
+    },
+    {
+        "cv_id": 70,
+        "cv_title": "Technicien Support R\u00e9seau",
+        "cv_skills": [
+            "LAN",
+            "WAN",
+            "Switches",
+            "Routing protocols",
+            "TCP/IP",
+            "Network monitoring tools"
+        ],
+        "cv_experiences": [
+            "2+ years of experience in network support",
+            "Expertise in LAN, WAN, routing protocols, and TCP/IP",
+            "Strong skills in switches",
+            "Experience with network monitoring tools"
+        ]
+    },
+    {
+        "cv_id": 71,
+        "cv_title": "Administrateur Syst\u00e8mes & R\u00e9seaux",
+        "cv_skills": [
+            "LAN",
+            "WAN",
+            "Firewalls",
+            "Switches"
+        ],
+        "cv_experiences": [
+            "4+ years of experience in IT administration",
+            "Expertise in LAN, WAN, routing protocols, VPNs, and TCP/IP",
+            "Strong skills in firewalls, switches, and virtualization",
+            "Experience with Windows Server and Linux"
+        ]
+    },
+    {
+        "cv_id": 72,
+        "cv_title": "Ing\u00e9nieur S\u00e9curit\u00e9",
+        "cv_skills": [
+            "S\u00e9curit\u00e9 informatique",
+            "S\u00e9curit\u00e9 des donn\u00e9es",
+            "R\u00e9seau",
+            "Firewall",
+            "VPN",
+            "Antivirus",
+            "Gestion de crise"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en s\u00e9curit\u00e9 informatique",
+            "Mise en place de solutions de s\u00e9curit\u00e9 pour les r\u00e9seaux et les donn\u00e9es",
+            "Gestion de crise en cas d'attaques informatiques"
+        ]
+    },
+    {
+        "cv_id": 73,
+        "cv_title": "Analyste de s\u00e9curit\u00e9",
+        "cv_skills": [
+            "S\u00e9curit\u00e9 informatique",
+            "Analyse de risques",
+            "Cryptographie",
+            "S\u00e9curit\u00e9 des donn\u00e9es",
+            "R\u00e9seau",
+            "Firewall"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en s\u00e9curit\u00e9 informatique",
+            "Analyse de risques pour les syst\u00e8mes informatiques",
+            "Mise en place de solutions de s\u00e9curit\u00e9 pour les r\u00e9seaux et les donn\u00e9es"
+        ]
+    },
+    {
+        "cv_id": 74,
+        "cv_title": "Ing\u00e9nieur S\u00e9curit\u00e9 des Syst\u00e8mes",
+        "cv_skills": [
+            "S\u00e9curit\u00e9 informatique",
+            "S\u00e9curit\u00e9 des donn\u00e9es",
+            "R\u00e9seau",
+            "Gestion d'identit\u00e9",
+            "S\u00e9curit\u00e9 des syst\u00e8mes",
+            "Cryptographie"
+        ],
+        "cv_experiences": [
+            "4 ans d'exp\u00e9rience en s\u00e9curit\u00e9 informatique",
+            "Mise en place de solutions de s\u00e9curit\u00e9 pour les syst\u00e8mes informatiques",
+            "Gestion d'identit\u00e9 et des acc\u00e8s"
+        ]
+    },
+    {
+        "cv_id": 75,
+        "cv_title": "Consultant S\u00e9curit\u00e9 Informatique",
+        "cv_skills": [
+            "S\u00e9curit\u00e9 informatique",
+            "S\u00e9curit\u00e9 des donn\u00e9es",
+            "Cryptographie",
+            "Audit de s\u00e9curit\u00e9",
+            "S\u00e9curit\u00e9 des r\u00e9seaux",
+            "S\u00e9curit\u00e9 des syst\u00e8mes"
+        ],
+        "cv_experiences": [
+            "5 ans d'exp\u00e9rience en s\u00e9curit\u00e9 informatique",
+            "Audit de s\u00e9curit\u00e9 pour les syst\u00e8mes informatiques",
+            "Mise en place de solutions de s\u00e9curit\u00e9 pour les r\u00e9seaux et les donn\u00e9es"
+        ]
+    },
+    {
+        "cv_id": 76,
+        "cv_title": "Ing\u00e9nieur S\u00e9curit\u00e9 des R\u00e9seaux",
+        "cv_skills": [
+            "S\u00e9curit\u00e9 informatique",
+            "S\u00e9curit\u00e9 des donn\u00e9es",
+            "R\u00e9seau",
+            "Firewall",
+            "VPN"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en s\u00e9curit\u00e9 informatique",
+            "Mise en place de solutions de s\u00e9curit\u00e9 pour les r\u00e9seaux et les donn\u00e9es",
+            "Gestion de la s\u00e9curit\u00e9 des r\u00e9seaux",
+            "Certified in CCNA Security and CISSP"
+        ]
+    },
+    {
+        "cv_id": 77,
+        "cv_title": "MLOps Engineer",
+        "cv_skills": [
+            "Python",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Machine Learning",
+            "Terraform",
+            "AWS"
+        ],
+        "cv_experiences": [
+            "2+ years of experience in MLOps",
+            "Expertise in Python, Docker, and Kubernetes",
+            "Strong skills in CI/CD pipelines, Terraform, and AWS",
+            "Experience with machine learning frameworks and data science workflows"
+        ]
+    },
+    {
+        "cv_id": 78,
+        "cv_title": "Ing\u00e9nieur DevOps",
+        "cv_skills": [
+            "Python",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "AWS",
+            "Jenkins",
+            "Ansible"
+        ],
+        "cv_experiences": [
+            "3+ ans d'exp\u00e9rience en DevOps",
+            "Expertise en Python, Docker, et Kubernetes",
+            "Comp\u00e9tences solides en CI/CD, AWS, Jenkins, et Ansible",
+            "Exp\u00e9rience en automatisation et d\u00e9ploiement de mod\u00e8les de machine learning"
+        ]
+    },
+    {
+        "cv_id": 79,
+        "cv_title": "Data Scientist",
+        "cv_skills": [
+            "Python",
+            "Machine Learning",
+            "Data Analytics",
+            "Pandas",
+            "Scikit-Learn"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in data science",
+            "Expertise in Python and machine learning",
+            "Strong skills in data analytics with Pandas and Scikit-Learn",
+            "Experience with data pipelines and ETL workflows"
+        ]
+    },
+    {
+        "cv_id": 80,
+        "cv_title": "Ing\u00e9nieur Syst\u00e8me",
+        "cv_skills": [
+            "Linux",
+            "Bash",
+            "Python",
+            "Docker",
+            "Kubernetes",
+            "Ansible",
+            "Terraform"
+        ],
+        "cv_experiences": [
+            "4+ ans d'exp\u00e9rience en ing\u00e9nierie syst\u00e8me",
+            "Comp\u00e9tences solides en Linux, Bash, et Python",
+            "Expertise en Docker, Kubernetes, Ansible, et Terraform",
+            "Exp\u00e9rience en d\u00e9ploiement et gestion de syst\u00e8mes distribu\u00e9s et hautement disponibles"
+        ]
+    },
+    {
+        "cv_id": 81,
+        "cv_title": "Ing\u00e9nieur en Informatique",
+        "cv_skills": [
+            "Python",
+            "Java",
+            "Linux",
+            "Docker",
+            "Kubernetes",
+            "CI/CD"
+        ],
+        "cv_experiences": [
+            "3+ ans d'exp\u00e9rience en d\u00e9veloppement logiciel",
+            "Comp\u00e9tences solides en Python, Java, et Linux",
+            "Expertise en Docker, Kubernetes, et CI/CD",
+            "Exp\u00e9rience en d\u00e9veloppement de pipelines de d\u00e9ploiement et en gestion de clusters"
+        ]
+    },
+    {
+        "cv_id": 82,
+        "cv_title": "Ing\u00e9nieur en intelligence artificielle",
+        "cv_skills": [
+            "Python",
+            "Apprentissage automatique",
+            "Deep learning",
+            "Traitement du langage naturel",
+            "PyTorch",
+            "TensorFlow",
+            "Spark",
+            "Hadoop"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en IA",
+            "D\u00e9veloppement de mod\u00e8les de deep learning pour le traitement du langage naturel",
+            "Exp\u00e9rience avec Spark et Hadoop pour le traitement de donn\u00e9es volumineuses"
+        ]
+    },
+    {
+        "cv_id": 83,
+        "cv_title": "D\u00e9veloppeur Python",
+        "cv_skills": [
+            "Python",
+            "Apprentissage automatique",
+            "Traitement du langage naturel",
+            "Scikit-Learn",
+            "NLTK"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppement de mod\u00e8les de NLP avec Scikit-Learn et NLTK",
+            "Exp\u00e9rience avec des biblioth\u00e8ques d'apprentissage automatique telles que XGBoost et CatBoost"
+        ]
+    },
+    {
+        "cv_id": 84,
+        "cv_title": "Ing\u00e9nieur de recherche en apprentissage automatique",
+        "cv_skills": [
+            "Python",
+            "Apprentissage automatique",
+            "Deep learning",
+            "Vision par ordinateur",
+            "Keras",
+            "TensorFlow"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppement de mod\u00e8les de vision par ordinateur avec Keras et TensorFlow",
+            "Exp\u00e9rience dans la formation de mod\u00e8les de deep learning pour la reconnaissance d'images"
+        ]
+    },
+    {
+        "cv_id": 85,
+        "cv_title": "Scientifique de donn\u00e9es",
+        "cv_skills": [
+            "Python",
+            "Apprentissage automatique",
+            "Pandas",
+            "Scikit-Learn",
+            "Tableau"
+        ],
+        "cv_experiences": [
+            "Analyse de donn\u00e9es pour am\u00e9liorer la prise de d\u00e9cision",
+            "D\u00e9veloppement de mod\u00e8les de pr\u00e9diction en utilisant Scikit-Learn",
+            "Cr\u00e9ation de visualisations de donn\u00e9es interactives avec Tableau"
+        ]
+    },
+    {
+        "cv_id": 86,
+        "cv_title": "D\u00e9veloppeur d'applications d'apprentissage automatique",
+        "cv_skills": [
+            "Python",
+            "Apprentissage automatique",
+            "Deep learning",
+            "Keras",
+            "PyTorch"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppement d'applications web pour la classification de donn\u00e9es en utilisant Keras et PyTorch",
+            "Cr\u00e9ation d'APIs RESTful pour l'acc\u00e8s aux mod\u00e8les de deep learning"
+        ]
+    },
+    {
+        "cv_id": 87,
+        "cv_title": "Ing\u00e9nieur t\u00e9l\u00e9coms",
+        "cv_skills": [
+            "R\u00e9seaux t\u00e9l\u00e9coms",
+            "Protocoles de communication",
+            "LTE",
+            "5G",
+            "Programmation C",
+            "Java",
+            "Python"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur t\u00e9l\u00e9coms avec plus de 3 ans d'exp\u00e9rience",
+            "Conception et maintenance des \u00e9quipements r\u00e9seaux LTE et 5G",
+            "D\u00e9veloppement de logiciels de simulation de r\u00e9seaux de t\u00e9l\u00e9communications"
+        ]
+    },
+    {
+        "cv_id": 88,
+        "cv_title": "Technicien t\u00e9l\u00e9communications",
+        "cv_skills": [
+            "R\u00e9seaux t\u00e9l\u00e9coms",
+            "Protocoles de communication",
+            "LTE",
+            "5G",
+            "Installation et maintenance des \u00e9quipements r\u00e9seaux"
+        ],
+        "cv_experiences": [
+            "Technicien t\u00e9l\u00e9communications avec plus de 2 ans d'exp\u00e9rience",
+            "Installation et maintenance des \u00e9quipements r\u00e9seaux LTE et 5G",
+            "Test et d\u00e9pannage des \u00e9quipements r\u00e9seaux"
+        ]
+    },
+    {
+        "cv_id": 89,
+        "cv_title": "Ing\u00e9nieur en \u00e9lectronique",
+        "cv_skills": [
+            "Conception de circuits \u00e9lectroniques",
+            "Syst\u00e8mes embarqu\u00e9s",
+            "Programmation C",
+            "Matlab",
+            "Simulink"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur en \u00e9lectronique avec 2 ans d'exp\u00e9rience",
+            "Conception de circuits \u00e9lectroniques pour les \u00e9quipements de t\u00e9l\u00e9communications",
+            "D\u00e9veloppement de logiciels de simulation de circuits \u00e9lectroniques"
+        ]
+    },
+    {
+        "cv_id": 90,
+        "cv_title": "Ing\u00e9nieur r\u00e9seau",
+        "cv_skills": [
+            "R\u00e9seaux t\u00e9l\u00e9coms",
+            "Protocoles de communication",
+            "TCP/IP",
+            "Firewalls"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur r\u00e9seau avec 3 ans d'exp\u00e9rience",
+            "Conception et mise en place des architectures r\u00e9seaux",
+            "S\u00e9curisation des r\u00e9seaux \u00e0 travers des solutions de firewall"
+        ]
+    },
+    {
+        "cv_id": 91,
+        "cv_title": "D\u00e9veloppeur Python",
+        "cv_skills": [
+            "Python",
+            "Data Science",
+            "Machine Learning",
+            "Deep Learning",
+            "Traitement de signal"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur Python avec 2 ans d'exp\u00e9rience",
+            "D\u00e9veloppement de solutions de data science et de machine learning pour les t\u00e9l\u00e9communications",
+            "Traitement de signal pour les r\u00e9seaux de t\u00e9l\u00e9communications"
+        ]
+    },
+    {
+        "cv_id": 92,
+        "cv_title": "Administrateur R\u00e9seau et S\u00e9curit\u00e9",
+        "cv_skills": [
+            "Cisco",
+            "Switching",
+            "Routing",
+            "Firewalls",
+            "VPN",
+            "TCP/IP",
+            "Active Directory",
+            "Windows Server"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en tant qu'administrateur r\u00e9seau et s\u00e9curit\u00e9",
+            "Expertise dans la configuration de Cisco et de la s\u00e9curit\u00e9 r\u00e9seau",
+            "Exp\u00e9rience en gestion d'Active Directory et de Windows Server"
+        ]
+    },
+    {
+        "cv_id": 93,
+        "cv_title": "Ing\u00e9nieur R\u00e9seau",
+        "cv_skills": [
+            "Cisco",
+            "Switching",
+            "Routing",
+            "TCP/IP"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en tant qu'ing\u00e9nieur r\u00e9seau",
+            "Expertise dans la configuration de Cisco et de la s\u00e9curit\u00e9 r\u00e9seau",
+            "Exp\u00e9rience en configuration de switch et de routeurs, ainsi que dans la gestion du protocole TCP/IP"
+        ]
+    },
+    {
+        "cv_id": 94,
+        "cv_title": "Technicien R\u00e9seau",
+        "cv_skills": [
+            "Switching",
+            "Routing",
+            "Firewalls",
+            "VPN",
+            "TCP/IP",
+            "Linux"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en tant que technicien r\u00e9seau",
+            "Expertise dans la configuration de switch et de routeurs",
+            "Exp\u00e9rience en gestion de la s\u00e9curit\u00e9 r\u00e9seau et des VPN, ainsi que dans la configuration de TCP/IP et de Linux"
+        ]
+    },
+    {
+        "cv_id": 95,
+        "cv_title": "Administrateur Syst\u00e8me et R\u00e9seau",
+        "cv_skills": [
+            "Cisco",
+            "Switching",
+            "Routing",
+            "Firewalls",
+            "VPN",
+            "TCP/IP",
+            "Windows Server"
+        ],
+        "cv_experiences": [
+            "5 ans d'exp\u00e9rience en tant qu'administrateur syst\u00e8me et r\u00e9seau",
+            "Expertise dans la configuration de Cisco et de la s\u00e9curit\u00e9 r\u00e9seau",
+            "Exp\u00e9rience en gestion de Windows Server et de la s\u00e9curit\u00e9 r\u00e9seau, ainsi qu'en configuration de TCP/IP"
+        ]
+    },
+    {
+        "cv_id": 96,
+        "cv_title": "Technicien Support Informatique",
+        "cv_skills": [
+            "Switching",
+            "Routing",
+            "TCP/IP",
+            "Windows Server"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en tant que technicien support informatique",
+            "Exp\u00e9rience en configuration de switch et de routeurs, ainsi qu'en gestion de Windows Server et de TCP/IP"
+        ]
+    },
+    {
+        "cv_id": 97,
+        "cv_title": "Ing\u00e9nieur \u00e9lectronique",
+        "cv_skills": [
+            "Conception \u00e9lectronique",
+            "CAO",
+            "Microcontr\u00f4leurs",
+            "Syst\u00e8mes embarqu\u00e9s",
+            "C++",
+            "VHDL",
+            "Python"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en tant qu'ing\u00e9nieur \u00e9lectronique",
+            "Conception de circuits \u00e9lectroniques",
+            "D\u00e9veloppement de microcontr\u00f4leurs",
+            "Programmation en C++, VHDL et Python"
+        ]
+    },
+    {
+        "cv_id": 98,
+        "cv_title": "Technicien \u00e9lectronique",
+        "cv_skills": [
+            "Conception \u00e9lectronique",
+            "CAO",
+            "Microcontr\u00f4leurs"
+        ],
+        "cv_experiences": [
+            "5 ans d'exp\u00e9rience en \u00e9lectronique",
+            "Conception de circuits \u00e9lectroniques",
+            "D\u00e9veloppement de microcontr\u00f4leurs"
+        ]
+    },
+    {
+        "cv_id": 99,
+        "cv_title": "Ing\u00e9nieur syst\u00e8mes embarqu\u00e9s",
+        "cv_skills": [
+            "Conception \u00e9lectronique",
+            "Microcontr\u00f4leurs",
+            "Syst\u00e8mes embarqu\u00e9s",
+            "C",
+            "C++",
+            "Python"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en tant qu'ing\u00e9nieur syst\u00e8mes embarqu\u00e9s",
+            "Conception de circuits \u00e9lectroniques",
+            "D\u00e9veloppement de microcontr\u00f4leurs",
+            "Programmation en C, C++ et Python"
+        ]
+    },
+    {
+        "cv_id": 100,
+        "cv_title": "Ing\u00e9nieur en automatisme",
+        "cv_skills": [
+            "Automatisme",
+            "Syst\u00e8mes embarqu\u00e9s",
+            "Conception \u00e9lectronique"
+        ],
+        "cv_experiences": [
+            "5 ans d'exp\u00e9rience en automatisme",
+            "Conception de syst\u00e8mes embarqu\u00e9s",
+            "Conception de circuits \u00e9lectroniques"
+        ]
+    },
+    {
+        "cv_id": 101,
+        "cv_title": "Ing\u00e9nieur syst\u00e8me",
+        "cv_skills": [
+            "Syst\u00e8mes embarqu\u00e9s",
+            "Conception \u00e9lectronique",
+            "Microcontr\u00f4leurs",
+            "Python"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en tant qu'ing\u00e9nieur syst\u00e8me",
+            "D\u00e9veloppement de syst\u00e8mes embarqu\u00e9s",
+            "Conception de circuits \u00e9lectroniques",
+            "Programmation en Python"
+        ]
+    },
+    {
+        "cv_id": 102,
+        "cv_title": "Data Scientist",
+        "cv_skills": [
+            "Python",
+            "Machine learning",
+            "Data analysis",
+            "SQL",
+            "Big data",
+            "R"
+        ],
+        "cv_experiences": [
+            "Data Scientist chez une entreprise de e-commerce",
+            "Stage en Data Science dans une entreprise de marketing digital",
+            "Th\u00e8se de doctorat en apprentissage automatique appliqu\u00e9 aux donn\u00e9es g\u00e9ospatiales"
+        ]
+    },
+    {
+        "cv_id": 103,
+        "cv_title": "Scientifique de donn\u00e9es",
+        "cv_skills": [
+            "Python",
+            "Apprentissage automatique",
+            "Analyse de donn\u00e9es",
+            "SQL",
+            "Donn\u00e9es massives"
+        ],
+        "cv_experiences": [
+            "Scientifique de donn\u00e9es chez une entreprise de sant\u00e9",
+            "Stage en analyse de donn\u00e9es chez une entreprise de t\u00e9l\u00e9communications",
+            "Projet de recherche sur l'analyse de donn\u00e9es pour la m\u00e9t\u00e9orologie"
+        ]
+    },
+    {
+        "cv_id": 104,
+        "cv_title": "Data Scientist junior",
+        "cv_skills": [
+            "Python",
+            "Machine learning",
+            "Analyse de donn\u00e9es",
+            "SQL"
+        ],
+        "cv_experiences": [
+            "Stage en Data Science chez une entreprise de jeux vid\u00e9o",
+            "Projet de recherche sur l'analyse de donn\u00e9es pour l'industrie alimentaire"
+        ]
+    },
+    {
+        "cv_id": 105,
+        "cv_title": "Analyste de donn\u00e9es",
+        "cv_skills": [
+            "Python",
+            "Analyse de donn\u00e9es",
+            "SQL",
+            "Visualisation de donn\u00e9es"
+        ],
+        "cv_experiences": [
+            "Analyste de donn\u00e9es chez une entreprise de publicit\u00e9 en ligne",
+            "Stage en analyse de donn\u00e9es chez une entreprise de transport"
+        ]
+    },
+    {
+        "cv_id": 106,
+        "cv_title": "Data analyst",
+        "cv_skills": [
+            "Python",
+            "SQL",
+            "Analyse de donn\u00e9es"
+        ],
+        "cv_experiences": [
+            "Data analyst chez une entreprise de finance",
+            "Projet de recherche sur l'analyse de donn\u00e9es pour l'industrie automobile"
+        ]
+    },
+    {
+        "cv_id": 107,
+        "cv_title": "Ing\u00e9nieur en d\u00e9veloppement Java Full Stack",
+        "cv_skills": [
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "TypeScript",
+            "RESTful APIs",
+            "MySQL",
+            "Git",
+            "Maven",
+            "Docker",
+            "Jenkins",
+            "JUnit",
+            "Agile"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur Full Stack",
+            "D\u00e9veloppement d'applications web avec Java, Spring Boot et Angular",
+            "Travail en \u00e9quipe Agile",
+            "Gestion des bases de donn\u00e9es MySQL",
+            "Utilisation de Git pour le versioning du code"
+        ]
+    },
+    {
+        "cv_id": 108,
+        "cv_title": "D\u00e9veloppeur Java Backend",
+        "cv_skills": [
+            "Java",
+            "Spring Boot",
+            "RESTful APIs",
+            "MySQL",
+            "Git",
+            "Maven",
+            "Docker",
+            "JUnit",
+            "Microservices",
+            "Kubernetes",
+            "RabbitMQ",
+            "Hibernate",
+            "Agile"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur Java",
+            "D\u00e9veloppement d'applications backend en Java et Spring Boot",
+            "Int\u00e9gration avec des bases de donn\u00e9es MySQL",
+            "Mise en place d'API RESTful",
+            "Utilisation de Docker et Kubernetes pour la conteneurisation"
+        ]
+    },
+    {
+        "cv_id": 109,
+        "cv_title": "D\u00e9veloppeur Frontend",
+        "cv_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "TypeScript",
+            "Angular",
+            "React",
+            "Vue.js",
+            "RESTful APIs",
+            "Webpack",
+            "NPM",
+            "Sass",
+            "Bootstrap",
+            "Material Design",
+            "Agile"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur Frontend",
+            "Cr\u00e9ation d'interfaces utilisateur avec Angular",
+            "Int\u00e9gration avec des API RESTful",
+            "Utilisation de frameworks CSS comme Bootstrap et Material Design"
+        ]
+    },
+    {
+        "cv_id": 110,
+        "cv_title": "D\u00e9veloppeur Java Junior",
+        "cv_skills": [
+            "Java",
+            "Spring Boot",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "TypeScript",
+            "Angular",
+            "MySQL",
+            "Git",
+            "Maven"
+        ],
+        "cv_experiences": [
+            "Stagiaire D\u00e9veloppeur Java",
+            "D\u00e9veloppement d'applications Java et Spring Boot",
+            "Int\u00e9gration de bases de donn\u00e9es MySQL",
+            "Cr\u00e9ation d'interfaces utilisateur avec Angular"
+        ]
+    },
+    {
+        "cv_id": 111,
+        "cv_title": "D\u00e9veloppeur Mobile",
+        "cv_skills": [
+            "Java",
+            "Kotlin",
+            "Android",
+            "Swift",
+            "iOS",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React Native",
+            "Flutter",
+            "RESTful APIs",
+            "Firebase",
+            "SQLite"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppement d'applications mobiles pour Android et iOS"
+        ]
+    },
+    {
+        "cv_id": 112,
+        "cv_title": "Ing\u00e9nieur Full Stack Java",
+        "cv_skills": [
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "MySQL",
+            "Git",
+            "Maven",
+            "Jenkins",
+            "Hibernate",
+            "JPA"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur Full Stack Java",
+            "D\u00e9veloppement d'applications web avec Java, Spring Boot et Angular, int\u00e9gration continue avec Jenkins et Maven."
+        ]
+    },
+    {
+        "cv_id": 113,
+        "cv_title": "D\u00e9veloppeur Java Senior",
+        "cv_skills": [
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "MySQL",
+            "Git",
+            "Maven",
+            "Jenkins",
+            "Docker",
+            "Kubernetes"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur Java Senior",
+            "D\u00e9veloppement de solutions Java avec Spring Boot, mise en place de tests automatis\u00e9s et d\u00e9ploiement avec Docker et Kubernetes."
+        ]
+    },
+    {
+        "cv_id": 114,
+        "cv_title": "D\u00e9veloppeur Java / Angular",
+        "cv_skills": [
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "MySQL",
+            "Git",
+            "Maven",
+            "Jenkins",
+            "Elasticsearch",
+            "RabbitMQ"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur Java / Angular",
+            "Cr\u00e9ation d'applications web avec Java et Angular, gestion de bases de donn\u00e9es MySQL, int\u00e9gration d'Elasticsearch et RabbitMQ."
+        ]
+    },
+    {
+        "cv_id": 115,
+        "cv_title": "Ing\u00e9nieur Logiciel Java",
+        "cv_skills": [
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "MySQL",
+            "Git",
+            "Maven",
+            "Jenkins",
+            "React",
+            "Vue.js"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur Logiciel Java",
+            "D\u00e9veloppement de solutions Java avec Spring Boot, cr\u00e9ation d'interfaces utilisateur avec Angular, React et Vue.js."
+        ]
+    },
+    {
+        "cv_id": 116,
+        "cv_title": "D\u00e9veloppeur Full Stack",
+        "cv_skills": [
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "MySQL",
+            "Git",
+            "Maven",
+            "Jenkins",
+            "Python",
+            "Django"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur Full Stack",
+            "D\u00e9veloppement d'applications web avec Java et Spring Boot, cr\u00e9ation d'interfaces utilisateur avec Angular, d\u00e9veloppement backend avec Python et Django."
+        ]
+    },
+    {
+        "cv_id": 117,
+        "cv_title": "Ing\u00e9nieur Syst\u00e8mes Linux Senior",
+        "cv_skills": [
+            "Linux",
+            "Bash",
+            "Ansible",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "Apache",
+            "Nginx",
+            "MySQL",
+            "PostgreSQL",
+            "Python",
+            "Debian",
+            "Red Hat"
+        ],
+        "cv_experiences": [
+            "Administrateur Syst\u00e8mes Linux chez Orange",
+            "Ing\u00e9nieur Syst\u00e8mes Linux chez OVH",
+            "Technicien Support Linux chez Atos"
+        ]
+    },
+    {
+        "cv_id": 118,
+        "cv_title": "Administrateur Syst\u00e8mes Linux",
+        "cv_skills": [
+            "Linux",
+            "Bash",
+            "Ansible",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "Nginx",
+            "Python"
+        ],
+        "cv_experiences": [
+            "Administrateur Syst\u00e8mes Linux chez Capgemini",
+            "Technicien Support Linux chez Dassault Syst\u00e8mes"
+        ]
+    },
+    {
+        "cv_id": 119,
+        "cv_title": "Ing\u00e9nieur Syst\u00e8mes Linux",
+        "cv_skills": [
+            "Linux",
+            "Shell Scripting",
+            "Puppet",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "Nginx",
+            "PHP"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur Syst\u00e8mes Linux chez IBM",
+            "Technicien Support Linux chez Accenture"
+        ]
+    },
+    {
+        "cv_id": 120,
+        "cv_title": "Administrateur Syst\u00e8mes et R\u00e9seaux",
+        "cv_skills": [
+            "Linux",
+            "Shell Scripting",
+            "Ansible",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "Nginx",
+            "Cisco",
+            "Windows Server"
+        ],
+        "cv_experiences": [
+            "Administrateur Syst\u00e8mes et R\u00e9seaux chez Sopra Steria",
+            "Technicien R\u00e9seaux chez Thales"
+        ]
+    },
+    {
+        "cv_id": 121,
+        "cv_title": "Technicien Support Linux",
+        "cv_skills": [
+            "Linux",
+            "Shell Scripting",
+            "Ansible",
+            "Docker",
+            "Git",
+            "Nginx",
+            "Windows Server"
+        ],
+        "cv_experiences": [
+            "Technicien Support Linux chez Atos"
+        ]
+    },
+    {
+        "cv_id": 122,
+        "cv_title": "Ing\u00e9nieur R\u00e9seau et S\u00e9curit\u00e9 Senior",
+        "cv_skills": [
+            "Cisco",
+            "Juniper",
+            "Palo Alto",
+            "Fortinet",
+            "SDN",
+            "SD-WAN",
+            "VPN",
+            "Firewall",
+            "IDS/IPS",
+            "S\u00e9curit\u00e9",
+            "ISO 27001",
+            "ITIL"
+        ],
+        "cv_experiences": [
+            "7 ans en tant qu'Ing\u00e9nieur R\u00e9seau et S\u00e9curit\u00e9 pour un op\u00e9rateur t\u00e9l\u00e9com",
+            "2 ans en tant que Consultant S\u00e9curit\u00e9 chez un int\u00e9grateur de solutions de s\u00e9curit\u00e9"
+        ]
+    },
+    {
+        "cv_id": 123,
+        "cv_title": "Ing\u00e9nieur R\u00e9seau et S\u00e9curit\u00e9",
+        "cv_skills": [
+            "Cisco",
+            "Juniper",
+            "Palo Alto",
+            "Fortinet",
+            "SDN",
+            "VPN",
+            "Firewall",
+            "IDS/IPS",
+            "S\u00e9curit\u00e9"
+        ],
+        "cv_experiences": [
+            "4 ans en tant qu'Ing\u00e9nieur R\u00e9seau et S\u00e9curit\u00e9 pour un fournisseur d'acc\u00e8s \u00e0 Internet",
+            "1 an en tant qu'Ing\u00e9nieur Support R\u00e9seaux chez un fournisseur d'\u00e9quipements r\u00e9seaux"
+        ]
+    },
+    {
+        "cv_id": 124,
+        "cv_title": "Ing\u00e9nieur R\u00e9seau",
+        "cv_skills": [
+            "Cisco",
+            "Juniper",
+            "SDN",
+            "VPN",
+            "Firewall",
+            "S\u00e9curit\u00e9",
+            "BGP",
+            "OSPF",
+            "MPLS"
+        ],
+        "cv_experiences": [
+            "3 ans en tant qu'Ing\u00e9nieur R\u00e9seau pour un op\u00e9rateur t\u00e9l\u00e9com",
+            "2 ans en tant qu'Ing\u00e9nieur Support R\u00e9seaux chez un fournisseur d'\u00e9quipements r\u00e9seaux"
+        ]
+    },
+    {
+        "cv_id": 125,
+        "cv_title": "Ing\u00e9nieur S\u00e9curit\u00e9",
+        "cv_skills": [
+            "Palo Alto",
+            "Fortinet",
+            "VPN",
+            "Firewall",
+            "IDS/IPS",
+            "S\u00e9curit\u00e9",
+            "ISO 27001",
+            "ITIL",
+            "Risk Management"
+        ],
+        "cv_experiences": [
+            "5 ans en tant qu'Ing\u00e9nieur S\u00e9curit\u00e9 pour un \u00e9diteur de solutions de s\u00e9curit\u00e9",
+            "1 an en tant que Consultant S\u00e9curit\u00e9 chez un int\u00e9grateur de solutions de s\u00e9curit\u00e9"
+        ]
+    },
+    {
+        "cv_id": 126,
+        "cv_title": "Ing\u00e9nieur R\u00e9seaux et Syst\u00e8mes",
+        "cv_skills": [
+            "Linux",
+            "Bash",
+            "Python",
+            "Docker",
+            "Ansible",
+            "Puppet",
+            "Cisco",
+            "Juniper",
+            "SDN",
+            "S\u00e9curit\u00e9"
+        ],
+        "cv_experiences": [
+            "4 ans en tant qu'Ing\u00e9nieur R\u00e9seaux et Syst\u00e8mes pour un op\u00e9rateur t\u00e9l\u00e9com",
+            "2 ans en tant qu'Ing\u00e9nieur Support R\u00e9seaux chez un fournisseur d'\u00e9quipements r\u00e9seaux"
+        ]
+    },
+    {
+        "cv_id": 127,
+        "cv_title": "Analyste en Cyber S\u00e9curit\u00e9",
+        "cv_skills": [
+            "Analyse des risques",
+            "Gestion des incidents de s\u00e9curit\u00e9",
+            "Audit de s\u00e9curit\u00e9",
+            "S\u00e9curit\u00e9 des r\u00e9seaux",
+            "S\u00e9curit\u00e9 des applications",
+            "S\u00e9curit\u00e9 des syst\u00e8mes d'information"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en tant qu'analyste en cyber s\u00e9curit\u00e9",
+            "Exp\u00e9rience en gestion d'incidents de s\u00e9curit\u00e9 et en r\u00e9ponse aux incidents",
+            "Bonne connaissance des normes et standards de s\u00e9curit\u00e9 (ISO 27001, PCI DSS)",
+            "Exp\u00e9rience en audit de s\u00e9curit\u00e9, \u00e9valuation de risques et recommandation de solutions de s\u00e9curit\u00e9"
+        ]
+    },
+    {
+        "cv_id": 128,
+        "cv_title": "Analyste en s\u00e9curit\u00e9 informatique",
+        "cv_skills": [
+            "Analyse des risques",
+            "Gestion des incidents de s\u00e9curit\u00e9",
+            "S\u00e9curit\u00e9 des r\u00e9seaux"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en s\u00e9curit\u00e9 informatique",
+            "Exp\u00e9rience en analyse des risques et en gestion des incidents de s\u00e9curit\u00e9",
+            "Connaissance approfondie des solutions de s\u00e9curit\u00e9 r\u00e9seau (pare-feu, VPN)",
+            "Exp\u00e9rience en audit de s\u00e9curit\u00e9 et en recommandation de solutions de s\u00e9curit\u00e9"
+        ]
+    },
+    {
+        "cv_id": 129,
+        "cv_title": "Ing\u00e9nieur s\u00e9curit\u00e9",
+        "cv_skills": [
+            "Gestion des incidents de s\u00e9curit\u00e9",
+            "S\u00e9curit\u00e9 des r\u00e9seaux",
+            "S\u00e9curit\u00e9 des syst\u00e8mes d'information"
+        ],
+        "cv_experiences": [
+            "5 ans d'exp\u00e9rience en s\u00e9curit\u00e9 informatique",
+            "Exp\u00e9rience en gestion des incidents de s\u00e9curit\u00e9 et en r\u00e9ponse aux incidents",
+            "Bonne connaissance des solutions de s\u00e9curit\u00e9 r\u00e9seau (pare-feu, IDS/IPS, VPN)",
+            "Exp\u00e9rience en s\u00e9curit\u00e9 des syst\u00e8mes d'information et en audit de s\u00e9curit\u00e9"
+        ]
+    },
+    {
+        "cv_id": 130,
+        "cv_title": "Consultant en s\u00e9curit\u00e9",
+        "cv_skills": [
+            "Analyse des risques",
+            "Audit de s\u00e9curit\u00e9",
+            "Conseil en s\u00e9curit\u00e9"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en s\u00e9curit\u00e9 informatique",
+            "Exp\u00e9rience en analyse des risques et en audit de s\u00e9curit\u00e9",
+            "Exp\u00e9rience en conseil en s\u00e9curit\u00e9 et en recommandation de solutions de s\u00e9curit\u00e9",
+            "Bonne connaissance des normes et standards de s\u00e9curit\u00e9 (ISO 27001, PCI DSS)"
+        ]
+    },
+    {
+        "cv_id": 131,
+        "cv_title": "Analyste s\u00e9curit\u00e9 des donn\u00e9es",
+        "cv_skills": [
+            "Analyse des risques",
+            "Gestion des incidents de s\u00e9curit\u00e9",
+            "S\u00e9curit\u00e9 des donn\u00e9es"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en s\u00e9curit\u00e9 des donn\u00e9es",
+            "Exp\u00e9rience en analyse des risque"
+        ]
+    },
+    {
+        "cv_id": 132,
+        "cv_title": "D\u00e9veloppeur Full-Stack",
+        "cv_skills": [
+            "PHP",
+            "Laravel",
+            "Git",
+            "HTML",
+            "CSS",
+            "JS",
+            "JQuery",
+            "Bootstrap",
+            "React",
+            "Vue.js"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en d\u00e9veloppement web",
+            "Expertise en Laravel et Vue.js",
+            "Maitrise de Git pour le contr\u00f4le de version",
+            "Exp\u00e9rience en d\u00e9veloppement Full-Stack avec React et Bootstrap",
+            "Connaissances approfondies en HTML, CSS et JavaScript"
+        ]
+    },
+    {
+        "cv_id": 133,
+        "cv_title": "D\u00e9veloppeur PHP",
+        "cv_skills": [
+            "PHP",
+            "Laravel",
+            "Git",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "JQuery"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en d\u00e9veloppement PHP",
+            "Connaissances approfondies de Laravel et Git",
+            "Exp\u00e9rience en d\u00e9veloppement d'interfaces utilisateur avec HTML, CSS et JavaScript",
+            "Comp\u00e9tences en JQuery pour l'interaction dynamique"
+        ]
+    },
+    {
+        "cv_id": 134,
+        "cv_title": "D\u00e9veloppeur Front-End",
+        "cv_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "JQuery",
+            "Bootstrap",
+            "React",
+            "Vue.js"
+        ],
+        "cv_experiences": [
+            "3 ans d'exp\u00e9rience en d\u00e9veloppement Front-End",
+            "Expertise en React et Vue.js",
+            "Maitrise de Bootstrap pour le d\u00e9veloppement responsive",
+            "Connaissances avanc\u00e9es en HTML, CSS et JavaScript",
+            "Exp\u00e9rience en int\u00e9gration de sites web avec JQuery"
+        ]
+    },
+    {
+        "cv_id": 135,
+        "cv_title": "D\u00e9veloppeur Back-End",
+        "cv_skills": [
+            "PHP",
+            "Laravel",
+            "Git",
+            "MySQL",
+            "MongoDB"
+        ],
+        "cv_experiences": [
+            "2 ans d'exp\u00e9rience en d\u00e9veloppement Back-End",
+            "Expertise en PHP et Laravel",
+            "Connaissances de Git pour le contr\u00f4le de version",
+            "Exp\u00e9rience en d\u00e9veloppement de bases de donn\u00e9es avec MySQL et MongoDB"
+        ]
+    },
+    {
+        "cv_id": 136,
+        "cv_title": "D\u00e9veloppeur Web Junior",
+        "cv_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "JQuery",
+            "PHP",
+            "Laravel"
+        ],
+        "cv_experiences": [
+            "1 an d'exp\u00e9rience en d\u00e9veloppement web",
+            "Connaissances de base en Laravel et PHP",
+            "Exp\u00e9rience en d\u00e9veloppement d'interfaces utilisateur avec HTML, CSS et JavaScript",
+            "Comp\u00e9tences en JQuery pour l'interaction dynamique"
+        ]
+    },
+    {
+        "cv_id": 137,
+        "cv_title": "Directeur des syst\u00e8mes d'information exp\u00e9riment\u00e9",
+        "cv_skills": [
+            "Gestion de projet",
+            "Gouvernance IT",
+            "S\u00e9curit\u00e9 des syst\u00e8mes d'information",
+            "ITIL",
+            "COBIT",
+            "Cloud",
+            "D\u00e9veloppement logiciel"
+        ],
+        "cv_experiences": [
+            "Directeur des syst\u00e8mes d'information - Entreprise A (5 ans)",
+            "Chef de projet IT - Entreprise B (3 ans)",
+            "Ing\u00e9nieur syst\u00e8me - Entreprise C (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 138,
+        "cv_title": "Responsable des syst\u00e8mes d'information",
+        "cv_skills": [
+            "Gestion de projet",
+            "S\u00e9curit\u00e9 des syst\u00e8mes d'information",
+            "ITIL",
+            "COBIT",
+            "Cloud",
+            "D\u00e9veloppement logiciel",
+            "DevOps"
+        ],
+        "cv_experiences": [
+            "Responsable des syst\u00e8mes d'information - Entreprise D (4 ans)",
+            "Chef de projet IT - Entreprise E (2 ans)",
+            "Ing\u00e9nieur DevOps - Entreprise F (3 ans)"
+        ]
+    },
+    {
+        "cv_id": 139,
+        "cv_title": "Chef de projet IT exp\u00e9riment\u00e9",
+        "cv_skills": [
+            "Gestion de projet",
+            "Gouvernance IT",
+            "S\u00e9curit\u00e9 des syst\u00e8mes d'information",
+            "ITIL",
+            "COBIT",
+            "Cloud",
+            "Scrum"
+        ],
+        "cv_experiences": [
+            "Chef de projet IT - Entreprise G (5 ans)",
+            "Responsable des syst\u00e8mes d'information - Entreprise H (2 ans)",
+            "Ing\u00e9nieur syst\u00e8me - Entreprise I (3 ans)"
+        ]
+    },
+    {
+        "cv_id": 140,
+        "cv_title": "Ing\u00e9nieur syst\u00e8me et responsable IT",
+        "cv_skills": [
+            "Gestion de projet",
+            "Gouvernance IT",
+            "S\u00e9curit\u00e9 des syst\u00e8mes d'information",
+            "ITIL",
+            "COBIT",
+            "Cloud",
+            "Linux"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur syst\u00e8me - Entreprise J (4 ans)",
+            "Responsable IT - Entreprise K (3 ans)",
+            "Technicien informatique - Entreprise L (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 141,
+        "cv_title": "Responsable IT avec exp\u00e9rience en s\u00e9curit\u00e9",
+        "cv_skills": [
+            "Gestion de projet",
+            "Gouvernance IT",
+            "S\u00e9curit\u00e9 des syst\u00e8mes d'information",
+            "ITIL",
+            "COBIT",
+            "Cloud",
+            "Pare-feu"
+        ],
+        "cv_experiences": [
+            "Responsable IT - Entreprise M (4 ans)",
+            "Chef de projet IT - Entreprise N (3 ans)",
+            "Ing\u00e9nieur s\u00e9curit\u00e9 - Entreprise O (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 142,
+        "cv_title": "D\u00e9veloppeur full stack exp\u00e9riment\u00e9",
+        "cv_skills": [
+            "C#",
+            "React",
+            "Angular",
+            "SQL",
+            "Git",
+            "Agile",
+            "HTML5/CSS3",
+            "Node.js"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur full stack chez Entreprise A (3 ans)",
+            "D\u00e9veloppeur front-end chez Entreprise B (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 143,
+        "cv_title": "Ing\u00e9nieur informatique sp\u00e9cialis\u00e9 en d\u00e9veloppement full stack",
+        "cv_skills": [
+            "C#",
+            "React",
+            "Angular",
+            "SQL",
+            "Git",
+            "Agile",
+            "HTML5/CSS3",
+            "Python"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur full stack chez Entreprise C (4 ans)",
+            "Stagiaire d\u00e9veloppeur chez Entreprise D (6 mois)"
+        ]
+    },
+    {
+        "cv_id": 144,
+        "cv_title": "D\u00e9veloppeur web full stack",
+        "cv_skills": [
+            "C#",
+            "React",
+            "SQL",
+            "Git",
+            "Agile",
+            "HTML5/CSS3",
+            "Vue.js"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur full stack chez Entreprise E (2 ans)",
+            "D\u00e9veloppeur back-end chez Entreprise F (1 an)"
+        ]
+    },
+    {
+        "cv_id": 145,
+        "cv_title": "D\u00e9veloppeur full stack junior",
+        "cv_skills": [
+            "C#",
+            "React",
+            "Angular",
+            "MySQL",
+            "Git",
+            "HTML5/CSS3"
+        ],
+        "cv_experiences": [
+            "Stagiaire d\u00e9veloppeur full stack chez Entreprise G (6 mois)",
+            "Apprenti d\u00e9veloppeur chez Entreprise H (1 an)"
+        ]
+    },
+    {
+        "cv_id": 146,
+        "cv_title": "Concepteur d\u00e9veloppeur full stack",
+        "cv_skills": [
+            "C#",
+            "Angular",
+            "SQL",
+            "Git",
+            "Agile",
+            "HTML5/CSS3",
+            "PHP"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur full stack chez Entreprise I (2 ans)",
+            "D\u00e9veloppeur front-end chez Entreprise J (1 an)"
+        ]
+    },
+    {
+        "cv_id": 147,
+        "cv_title": "Consultant CRM exp\u00e9riment\u00e9",
+        "cv_skills": [
+            "Salesforce",
+            "Dynamics 365",
+            "SAP",
+            "Pardot",
+            "Consulting",
+            "Gestion de projet",
+            "Int\u00e9gration",
+            "HubSpot"
+        ],
+        "cv_experiences": [
+            "Consultant CRM chez Entreprise K (4 ans)",
+            "Chef de projet CRM chez Entreprise L (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 148,
+        "cv_title": "Expert en solutions CRM",
+        "cv_skills": [
+            "Salesforce",
+            "Dynamics 365",
+            "SAP",
+            "Pardot",
+            "Consulting",
+            "Gestion de projet",
+            "Int\u00e9gration",
+            "Zoho CRM"
+        ],
+        "cv_experiences": [
+            "Consultant CRM chez Entreprise M (3 ans)",
+            "Responsable CRM chez Entreprise N (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 149,
+        "cv_title": "Consultant CRM et marketing",
+        "cv_skills": [
+            "Salesforce",
+            "Dynamics 365",
+            "SAP",
+            "Pardot",
+            "Consulting",
+            "Gestion de projet",
+            "Int\u00e9gration",
+            "Marketing automation"
+        ],
+        "cv_experiences": [
+            "Consultant CRM chez Entreprise O (3 ans)",
+            "Charg\u00e9 de marketing digital chez Entreprise P (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 150,
+        "cv_title": "Consultant CRM junior",
+        "cv_skills": [
+            "Salesforce",
+            "Dynamics 365",
+            "Consulting",
+            "Gestion de projet",
+            "Int\u00e9gration"
+        ],
+        "cv_experiences": [
+            "Stagiaire consultant CRM chez Entreprise Q (6 mois)",
+            "Assistant chef de projet chez Entreprise R (1 an)"
+        ]
+    },
+    {
+        "cv_id": 151,
+        "cv_title": "Consultant CRM et int\u00e9gration",
+        "cv_skills": [
+            "Salesforce",
+            "Dynamics 365",
+            "SAP",
+            "Pardot",
+            "Consulting",
+            "Gestion de projet",
+            "Int\u00e9gration",
+            "APIs"
+        ],
+        "cv_experiences": [
+            "Consultant CRM chez Entreprise S (2 ans)",
+            "D\u00e9veloppeur d'int\u00e9grations chez Entreprise T (1 an)"
+        ]
+    },
+    {
+        "cv_id": 152,
+        "cv_title": "Chef de projet IT exp\u00e9riment\u00e9",
+        "cv_skills": [
+            "Gestion de projet",
+            "Agile",
+            "Scrum",
+            "ITIL",
+            "PMP",
+            "Analyse des besoins",
+            "Coordination",
+            "Prince2"
+        ],
+        "cv_experiences": [
+            "Chef de projet IT chez Entreprise U (5 ans)",
+            "Responsable informatique chez Entreprise V (3 ans)"
+        ]
+    },
+    {
+        "cv_id": 153,
+        "cv_title": "Chef de projet IT et gestion de portefeuille",
+        "cv_skills": [
+            "Gestion de projet",
+            "Agile",
+            "Scrum",
+            "ITIL",
+            "PMP",
+            "Analyse des besoins",
+            "Coordination",
+            "Gestion de portefeuille"
+        ],
+        "cv_experiences": [
+            "Chef de projet IT chez Entreprise W (4 ans)",
+            "Gestionnaire de portefeuille projets chez Entreprise X (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 154,
+        "cv_title": "Chef de projet IT et d\u00e9veloppement",
+        "cv_skills": [
+            "Gestion de projet",
+            "Agile",
+            "Scrum",
+            "ITIL",
+            "PMP",
+            "Analyse des besoins",
+            "Coordination",
+            "Java",
+            "C#"
+        ],
+        "cv_experiences": [
+            "Chef de projet IT chez Entreprise Y (3 ans)",
+            "D\u00e9veloppeur Java chez Entreprise Z (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 155,
+        "cv_title": "Chef de projet IT junior",
+        "cv_skills": [
+            "Gestion de projet",
+            "Agile",
+            "Scrum",
+            "Analyse des besoins",
+            "Coordination"
+        ],
+        "cv_experiences": [
+            "Stagiaire chef de projet IT chez Entreprise AA (6 mois)",
+            "Assistant chef de projet chez Entreprise BB (1 an)"
+        ]
+    },
+    {
+        "cv_id": 156,
+        "cv_title": "Chef de projet IT et infrastructure",
+        "cv_skills": [
+            "Gestion de projet",
+            "Agile",
+            "Scrum",
+            "ITIL",
+            "PMP",
+            "Analyse des besoins",
+            "Coordination",
+            "Infrastructure",
+            "R\u00e9seau"
+        ],
+        "cv_experiences": [
+            "Chef de projet IT chez Entreprise CC (3 ans)",
+            "Administrateur r\u00e9seau chez Entreprise DD (2 ans)"
+        ]
+    },
+    {
+        "cv_id": 157,
+        "cv_title": "Monteur Vid\u00e9o Exp\u00e9riment\u00e9 et Designer en Motion",
+        "cv_skills": [
+            "Adobe Premiere Pro",
+            "After Effects",
+            "Animation 2D",
+            "Motion Design",
+            "Illustrator",
+            "Collaboration",
+            "D\u00e9lais respect\u00e9s"
+        ],
+        "cv_experiences": [
+            "Monteur Vid\u00e9o chez Agence de Communication - 3 ans",
+            "Freelance en Motion Design - 2 ans"
+        ],
+        "similarity_score": 0.95
+    },
+    {
+        "cv_id": 158,
+        "cv_title": "Motion Designer et Graphiste",
+        "cv_skills": [
+            "Adobe Premiere Pro",
+            "After Effects",
+            "Animation 2D",
+            "Motion Design",
+            "Photoshop",
+            "Illustrator",
+            "Travail d'\u00e9quipe"
+        ],
+        "cv_experiences": [
+            "Graphiste chez Studio de Design - 2 ans",
+            "Motion Designer chez Agence de Publicit\u00e9 - 1 an"
+        ],
+        "similarity_score": 0.9
+    },
+    {
+        "cv_id": 159,
+        "cv_title": "Monteur Vid\u00e9o et R\u00e9alisateur",
+        "cv_skills": [
+            "Adobe Premiere Pro",
+            "After Effects",
+            "Final Cut Pro",
+            "R\u00e9alisation",
+            "Storyboard",
+            "Collaboration",
+            "D\u00e9lais respect\u00e9s"
+        ],
+        "cv_experiences": [
+            "Monteur Vid\u00e9o chez Cha\u00eene de T\u00e9l\u00e9vision - 4 ans",
+            "R\u00e9alisateur de courts-m\u00e9trages - 2 ans"
+        ],
+        "similarity_score": 0.75
+    },
+    {
+        "cv_id": 160,
+        "cv_title": "Graphiste et Web Designer",
+        "cv_skills": [
+            "Adobe Premiere Pro",
+            "Photoshop",
+            "Illustrator",
+            "InDesign",
+            "HTML",
+            "CSS",
+            "Cr\u00e9ativit\u00e9"
+        ],
+        "cv_experiences": [
+            "Graphiste chez Agence de Communication - 4 ans",
+            "Web Designer Freelance - 1 an"
+        ],
+        "similarity_score": 0.6
+    },
+    {
+        "cv_id": 161,
+        "cv_title": "Illustrateur et Animateur 3D",
+        "cv_skills": [
+            "Cinema 4D",
+            "Blender",
+            "Illustrator",
+            "Animation 3D",
+            "Storyboard",
+            "Collaboration",
+            "Cr\u00e9ativit\u00e9"
+        ],
+        "cv_experiences": [
+            "Illustrateur chez Studio d'Animation - 3 ans",
+            "Animateur 3D Freelance - 2 ans"
+        ],
+        "similarity_score": 0.55
+    },
+    {
+        "cv_id": 162,
+        "cv_title": "Expert en Cyber S\u00e9curit\u00e9 et Analyste",
+        "cv_skills": [
+            "S\u00e9curit\u00e9 des r\u00e9seaux",
+            "Cryptographie",
+            "Pare-feu",
+            "Analyse de vuln\u00e9rabilit\u00e9s",
+            "Syst\u00e8mes d'exploitation",
+            "Gestion des incidents",
+            "Normes ISO 27001"
+        ],
+        "cv_experiences": [
+            "Analyste en Cyber S\u00e9curit\u00e9 chez Entreprise de Services du Num\u00e9rique - 4 ans",
+            "Ing\u00e9nieur R\u00e9seaux et S\u00e9curit\u00e9 chez Soci\u00e9t\u00e9 de Conseil - 2 ans"
+        ],
+        "similarity_score": 0.97
+    },
+    {
+        "cv_id": 163,
         "cv_title": "Ing\u00e9nieur en S\u00e9curit\u00e9 Informatique",
         "cv_skills": [
             "S\u00e9curit\u00e9 des r\u00e9seaux",
@@ -141,7 +2935,7 @@
         "similarity_score": 0.85
     },
     {
-        "cv_id": 7,
+        "cv_id": 164,
         "cv_title": "Administrateur Syst\u00e8mes et R\u00e9seaux",
         "cv_skills": [
             "S\u00e9curit\u00e9 des r\u00e9seaux",
@@ -158,7 +2952,7 @@
         "similarity_score": 0.75
     },
     {
-        "cv_id": 8,
+        "cv_id": 165,
         "cv_title": "D\u00e9veloppeur Full Stack",
         "cv_skills": [
             "S\u00e9curit\u00e9 des r\u00e9seaux",
@@ -176,7 +2970,7 @@
         "similarity_score": 0.65
     },
     {
-        "cv_id": 9,
+        "cv_id": 166,
         "cv_title": "Consultant en S\u00e9curit\u00e9 des Syst\u00e8mes d'Information",
         "cv_skills": [
             "Gouvernance des SI",
@@ -193,7 +2987,7 @@
         "similarity_score": 0.6
     },
     {
-        "cv_id": 10,
+        "cv_id": 167,
         "cv_title": "\u00c9tudiant en Gestion avec Exp\u00e9rience en Saisie de Donn\u00e9es",
         "cv_skills": [
             "Saisie de donn\u00e9es",
@@ -210,7 +3004,7 @@
         "similarity_score": 0.92
     },
     {
-        "cv_id": 11,
+        "cv_id": 168,
         "cv_title": "\u00c9tudiant en Informatique Cherchant Stage en Saisie de Donn\u00e9es",
         "cv_skills": [
             "Saisie de donn\u00e9es",
@@ -227,7 +3021,7 @@
         "similarity_score": 0.85
     },
     {
-        "cv_id": 12,
+        "cv_id": 169,
         "cv_title": "\u00c9tudiant en Communication Cherchant une Opportunit\u00e9 de Stage",
         "cv_skills": [
             "R\u00e9daction",
@@ -240,6 +3034,398 @@
         ],
         "cv_experiences": [
             "Stage en Communication chez Agence de Relations Publiques - 3 mois"
+        ]
+    },
+    {
+        "cv_id": 170,
+        "cv_title": "Analyste Logiciel Exp\u00e9riment\u00e9",
+        "cv_skills": [
+            "Analyse des besoins",
+            "Conception logicielle",
+            "Programmation orient\u00e9e objet",
+            "UML",
+            "Java",
+            "Python",
+            "Agile"
+        ],
+        "cv_experiences": [
+            "Analyste logiciel chez Soci\u00e9t\u00e9 X - 5 ans",
+            "D\u00e9veloppeur Java chez Soci\u00e9t\u00e9 Y - 3 ans"
+        ]
+    },
+    {
+        "cv_id": 171,
+        "cv_title": "Analyste Logiciel Junior",
+        "cv_skills": [
+            "Analyse des besoins",
+            "Conception logicielle",
+            "Programmation orient\u00e9e objet",
+            "Java",
+            "Python",
+            "Agile"
+        ],
+        "cv_experiences": [
+            "Analyste logiciel chez Soci\u00e9t\u00e9 Z - 2 ans",
+            "Stagiaire en d\u00e9veloppement logiciel chez Soci\u00e9t\u00e9 A - 6 mois"
+        ]
+    },
+    {
+        "cv_id": 172,
+        "cv_title": "D\u00e9veloppeur Logiciel Polyvalent",
+        "cv_skills": [
+            "Analyse des besoins",
+            "Conception logicielle",
+            "Programmation orient\u00e9e objet",
+            "UML",
+            "Java",
+            "Python",
+            "Agile",
+            "C++"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur logiciel chez Soci\u00e9t\u00e9 B - 4 ans",
+            "Ing\u00e9nieur logiciel chez Soci\u00e9t\u00e9 C - 3 ans"
+        ]
+    },
+    {
+        "cv_id": 173,
+        "cv_title": "Ing\u00e9nieur Logiciel",
+        "cv_skills": [
+            "Analyse des besoins",
+            "Conception logicielle",
+            "Programmation orient\u00e9e objet",
+            "UML",
+            "Java",
+            "Python",
+            "Agile",
+            "Git"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur logiciel chez Soci\u00e9t\u00e9 D - 6 ans",
+            "D\u00e9veloppeur Java chez Soci\u00e9t\u00e9 E - 2 ans"
+        ]
+    },
+    {
+        "cv_id": 174,
+        "cv_title": "Analyste Logiciel et Testeur",
+        "cv_skills": [
+            "Analyse des besoins",
+            "Conception logicielle",
+            "Programmation orient\u00e9e objet",
+            "Java",
+            "Python",
+            "Agile",
+            "Tests unitaires"
+        ],
+        "cv_experiences": [
+            "Analyste logiciel chez Soci\u00e9t\u00e9 F - 3 ans",
+            "Testeur logiciel chez Soci\u00e9t\u00e9 G - 2 ans"
+        ]
+    },
+    {
+        "cv_id": 175,
+        "cv_title": "D\u00e9veloppeur Mobile React Native Expert",
+        "cv_skills": [
+            "React Native",
+            "JavaScript",
+            "iOS",
+            "Android",
+            "Redux",
+            "API REST",
+            "Git"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur mobile React Native chez Soci\u00e9t\u00e9 H - 5 ans",
+            "D\u00e9veloppeur front-end chez Soci\u00e9t\u00e9 I - 3 ans"
+        ]
+    },
+    {
+        "cv_id": 176,
+        "cv_title": "D\u00e9veloppeur Mobile Polyvalent",
+        "cv_skills": [
+            "React Native",
+            "JavaScript",
+            "iOS",
+            "Android",
+            "Flutter",
+            "API REST",
+            "Git"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur mobile chez Soci\u00e9t\u00e9 J - 4 ans",
+            "D\u00e9veloppeur web chez Soci\u00e9t\u00e9 K - 2 ans"
+        ]
+    },
+    {
+        "cv_id": 177,
+        "cv_title": "D\u00e9veloppeur Mobile Junior",
+        "cv_skills": [
+            "React Native",
+            "JavaScript",
+            "iOS",
+            "Android",
+            "Redux"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur mobile chez Soci\u00e9t\u00e9 L - 2 ans",
+            "Stagiaire en d\u00e9veloppement mobile chez Soci\u00e9t\u00e9 M - 6 mois"
+        ]
+    },
+    {
+        "cv_id": 178,
+        "cv_title": "D\u00e9veloppeur Mobile Sp\u00e9cialiste iOS",
+        "cv_skills": [
+            "React Native",
+            "JavaScript",
+            "iOS",
+            "Swift",
+            "Redux",
+            "API REST",
+            "Git"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur mobile iOS chez Soci\u00e9t\u00e9 N - 4 ans",
+            "D\u00e9veloppeur front-end chez Soci\u00e9t\u00e9 O - 3 ans"
+        ]
+    },
+    {
+        "cv_id": 179,
+        "cv_title": "D\u00e9veloppeur Mobile Sp\u00e9cialiste Android",
+        "cv_skills": [
+            "React Native",
+            "JavaScript",
+            "Android",
+            "Java",
+            "Kotlin",
+            "API REST",
+            "Git"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur mobile Android chez Soci\u00e9t\u00e9 P - 5 ans",
+            "D\u00e9veloppeur Java chez Soci\u00e9t\u00e9 Q - 2 ans"
+        ]
+    },
+    {
+        "cv_id": 180,
+        "cv_title": "Ing\u00e9nieur DevOps Exp\u00e9riment\u00e9",
+        "cv_skills": [
+            "Docker",
+            "Jenkins",
+            "Git",
+            "Python",
+            "Bash",
+            "Ansible",
+            "Kubernetes"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur DevOps chez Soci\u00e9t\u00e9 R - 6 ans",
+            "Administrateur syst\u00e8me chez Soci\u00e9t\u00e9 S - 4 ans"
+        ]
+    },
+    {
+        "cv_id": 181,
+        "cv_title": "Ing\u00e9nieur DevOps Junior",
+        "cv_skills": [
+            "Docker",
+            "Jenkins",
+            "Git",
+            "Python",
+            "Ansible"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur DevOps chez Soci\u00e9t\u00e9 T - 2 ans",
+            "Stagiaire en administration syst\u00e8me chez Soci\u00e9t\u00e9 U - 6 mois"
+        ]
+    },
+    {
+        "cv_id": 182,
+        "cv_title": "Ing\u00e9nieur DevOps et Cloud",
+        "cv_skills": [
+            "Docker",
+            "Jenkins",
+            "Git",
+            "Python",
+            "Bash",
+            "Ansible",
+            "Kubernetes",
+            "AWS"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur DevOps chez Soci\u00e9t\u00e9 V - 4 ans",
+            "Ing\u00e9nieur Cloud chez Soci\u00e9t\u00e9 W - 3 ans"
+        ]
+    },
+    {
+        "cv_id": 183,
+        "cv_title": "Ing\u00e9nieur DevOps et S\u00e9curit\u00e9",
+        "cv_skills": [
+            "Docker",
+            "Jenkins",
+            "Git",
+            "Python",
+            "Bash",
+            "Ansible",
+            "Kubernetes",
+            "S\u00e9curit\u00e9"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur DevOps chez Soci\u00e9t\u00e9 X - 5 ans",
+            "Ing\u00e9nieur s\u00e9curit\u00e9 chez Soci\u00e9t\u00e9 Y - 3 ans"
+        ]
+    },
+    {
+        "cv_id": 184,
+        "cv_title": "Ing\u00e9nieur DevOps et D\u00e9veloppeur",
+        "cv_skills": [
+            "Docker",
+            "Jenkins",
+            "Git",
+            "Python",
+            "Bash",
+            "Ansible",
+            "Kubernetes",
+            "Java"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur DevOps chez Soci\u00e9t\u00e9 Z - 4 ans",
+            "D\u00e9veloppeur Java chez Soci\u00e9t\u00e9 A1 - 2 ans"
+        ]
+    },
+    {
+        "cv_id": 185,
+        "cv_title": "Data Analyst",
+        "cv_skills": [
+            "Analyse de donn\u00e9es",
+            "Python",
+            "SQL",
+            " Statistiques",
+            "Visualisation de donn\u00e9es"
+        ],
+        "cv_experiences": [
+            "Analyste de donn\u00e9es chez Orange, Paris",
+            "Stagiaire data scientist chez BNP Paribas, Lyon"
+        ]
+    },
+    {
+        "cv_id": 186,
+        "cv_title": "Business Intelligence Analyst",
+        "cv_skills": [
+            "SQL",
+            "Tableau",
+            "Excel"
+        ],
+        "cv_experiences": [
+            "BI Analyst at Deloitte Consulting, Paris ",
+            "Data Analyst at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, Lille"
+        ]
+    },
+    {
+        "cv_id": 187,
+        "cv_title": "Data Scientist",
+        "cv_skills": [
+            "Machine learning",
+            "Neural networks",
+            "Data mining"
+        ],
+        "cv_experiences": [
+            "Data Scientist at EDF, Paris",
+            " Stagiaire en apprendage automatique chez Thales, Massy"
+        ]
+    },
+    {
+        "cv_id": 188,
+        "cv_title": "\u00c9conomiste de la donn\u00e9e",
+        "cv_skills": [
+            "\u00c9conom\u00e9trie",
+            "Mod\u00e9lisation statistique",
+            "SAS",
+            "Stata"
+        ],
+        "cv_experiences": [
+            "\u00c9conomiste chez P\u00f4le Emploi, Toulouse",
+            "Charg\u00e9 d'\u00e9tudes \u00e9conomiques \u00e0 l'INSEE, Strasbourg"
+        ]
+    },
+    {
+        "cv_id": 189,
+        "cv_title": "Sp\u00e9cialiste en business analytics",
+        "cv_skills": [
+            "Power BI",
+            "QlikView",
+            "SAS Visual Analytics"
+        ],
+        "cv_experiences": [
+            "Consultant BI chez Accenture, Lyon",
+            "Chef de projet BI chez Capgemini, Paris"
+        ]
+    },
+    {
+        "cv_id": 190,
+        "cv_title": "Testeur automatiseur",
+        "cv_skills": [
+            "Scrum",
+            "Java",
+            "TestNG",
+            "Appium"
+        ],
+        "cv_experiences": [
+            "Testeur QA chez Dassault Systemes, V\u00e9lizy-Villacoublay",
+            "Ing\u00e9nieur qualit\u00e9 logicielle chez Thal\u00e8s, Gennevilliers"
+        ]
+    },
+    {
+        "cv_id": 191,
+        "cv_title": "Ing\u00e9nieur assurance qualit\u00e9",
+        "cv_skills": [
+            "JUnit",
+            "SQL",
+            "Quality Center",
+            "UFT"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur qualit\u00e9 chez Orange, Chatillon",
+            "Chef de projet test chez Sopra Steria, Annecy"
+        ]
+    },
+    {
+        "cv_id": 192,
+        "cv_title": "Consultant test",
+        "cv_skills": [
+            "Java",
+            "Selenium",
+            "Postman",
+            "SoapUI"
+        ],
+        "cv_experiences": [
+            "Consultant test chez Altran technologies, Sophia-Antipolis",
+            "Chef de projet qualit\u00e9 chez Alten, Toulouse"
+        ]
+    },
+    {
+        "cv_id": 193,
+        "cv_title": "Test manager",
+        "cv_skills": [
+            "Test strat\u00e9gique",
+            "Recette fonctionnelle",
+            "Pilotage de campagnes de tests",
+            "Management d'\u00e9quipes"
+        ],
+        "cv_experiences": [
+            "Test manager chez Orange Business Services, Lannion",
+            "Responsable qualit\u00e9 chez SII, Bordeaux"
+        ]
+    },
+    {
+        "cv_id": 194,
+        "cv_title": "Ing\u00e9nieur recette et validation",
+        "cv_skills": [
+            "Recette fonctionnelle",
+            "Test d'int\u00e9gration",
+            "Test d'acceptation par les utilisateurs"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur recette chez Thal\u00e8s Services, V\u00e9lizy-Villacoublay",
+            "Chef de projet recette chez Neopost, Br\u00e9tigny-sur-Orge"
         ]
     }
 ]
