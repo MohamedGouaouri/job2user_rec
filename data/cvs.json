@@ -1,0 +1,245 @@
+[
+    {
+        "cv_id": 0,
+        "cv_title": "Senior Backend Developer",
+        "cv_skills": [
+            "Node.js",
+            "RESTful APIs",
+            "JavaScript",
+            "MongoDB",
+            "Docker",
+            "GCP",
+            "Postgres",
+            "CassandraDB",
+            "GraphQL",
+            "gRPC",
+            "Kubernetes",
+            "Event-driven architectures",
+            "Message Queues"
+        ],
+        "cv_experiences": [
+            "7+ years of experience in backend development",
+            "Expertise in Node.js and JavaScript programming languages",
+            "Experience with designing and implementing RESTful APIs",
+            "Expertise in MongoDB database",
+            "Proficiency in Docker containerization technology"
+        ]
+    },
+    {
+        "cv_id": 1,
+        "cv_title": "Node.js Backend Developer",
+        "cv_skills": [
+            "Node.js",
+            "RESTful APIs",
+            "JavaScript",
+            "gRPC",
+            "Python",
+            "SQL",
+            "NoSQL",
+            "AWS",
+            "Docker",
+            "Docker Compose",
+            "Micorservices"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in Node.js development",
+            "Experience with designing and implementing RESTful APIs",
+            "Expertise in both SQL and NoSQL databases",
+            "Experience with cloud-based services such as AWS"
+        ]
+    },
+    {
+        "cv_id": 2,
+        "cv_title": "Full Stack Developer",
+        "cv_skills": [
+            "Node.js",
+            "ExpressJS",
+            "Django",
+            "AngularJS",
+            "React",
+            "JavaScript",
+            "MongoDB"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in full stack development",
+            "Expertise in Node.js and JavaScript programming languages",
+            "Experience with AngularJS and React frameworks",
+            "Expertise in MongoDB database",
+            "Strong skills in web development"
+        ]
+    },
+    {
+        "cv_id": 3,
+        "cv_title": "Software Engineer",
+        "cv_skills": [
+            "Java",
+            "Spring Boot",
+            "RESTful APIs",
+            "SQL",
+            "Git"
+        ],
+        "cv_experiences": [
+            "5+ years of experience in software engineering",
+            "Expertise in Java and Spring Boot frameworks",
+            "Experience with designing and implementing RESTful APIs",
+            "Strong skills in SQL database",
+            "Proficiency in Git version control system"
+        ]
+    },
+    {
+        "cv_id": 4,
+        "cv_title": "Backend Developer",
+        "cv_skills": [
+            "Node.js",
+            "Express",
+            "JavaScript",
+            "MongoDB",
+            "GraphQL"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in backend development",
+            "Expertise in Node.js and Express frameworks",
+            "Strong skills in JavaScript programming language",
+            "Experience with MongoDB and GraphQL",
+            "Knowledge of web application architecture"
+        ]
+    },
+    {
+        "cv_id": 5,
+        "cv_title": "Backend Developer",
+        "cv_skills": [
+            "Node.js",
+            "Express",
+            "JavaScript",
+            "MongoDB",
+            "GraphQL"
+        ],
+        "cv_experiences": [
+            "3+ years of experience in backend development",
+            "Expertise in Node.js and Express frameworks",
+            "Strong skills in JavaScript programming language",
+            "Experience with MongoDB and GraphQL",
+            "Knowledge of web application architecture"
+        ]
+    },
+    {
+        "cv_id": 6,
+        "cv_title": "Ing\u00e9nieur en S\u00e9curit\u00e9 Informatique",
+        "cv_skills": [
+            "S\u00e9curit\u00e9 des r\u00e9seaux",
+            "Cryptographie",
+            "Pare-feu",
+            "Analyse de vuln\u00e9rabilit\u00e9s",
+            "Syst\u00e8mes d'exploitation",
+            "Gestion des incidents",
+            "Connaissance des normes PCI DSS"
+        ],
+        "cv_experiences": [
+            "Ing\u00e9nieur en S\u00e9curit\u00e9 Informatique chez Banque - 3 ans",
+            "Technicien R\u00e9seaux chez Soci\u00e9t\u00e9 de Services en Ing\u00e9nierie Informatique - 2 ans"
+        ],
+        "similarity_score": 0.85
+    },
+    {
+        "cv_id": 7,
+        "cv_title": "Administrateur Syst\u00e8mes et R\u00e9seaux",
+        "cv_skills": [
+            "S\u00e9curit\u00e9 des r\u00e9seaux",
+            "Pare-feu",
+            "Syst\u00e8mes d'exploitation",
+            "Active Directory",
+            "Virtualisation",
+            "Gestion des incidents",
+            "Connaissance des normes ISO 27001"
+        ],
+        "cv_experiences": [
+            "Administrateur Syst\u00e8mes et R\u00e9seaux chez Entreprise de T\u00e9l\u00e9communications - 5 ans"
+        ],
+        "similarity_score": 0.75
+    },
+    {
+        "cv_id": 8,
+        "cv_title": "D\u00e9veloppeur Full Stack",
+        "cv_skills": [
+            "S\u00e9curit\u00e9 des r\u00e9seaux",
+            "JavaScript",
+            "Node.js",
+            "Python",
+            "Git",
+            "Syst\u00e8mes d'exploitation",
+            "Connaissance des normes ISO 27001"
+        ],
+        "cv_experiences": [
+            "D\u00e9veloppeur Full Stack chez Startup - 3 ans",
+            "Stagiaire en Cyber S\u00e9curit\u00e9 chez Entreprise de Services du Num\u00e9rique - 6 mois"
+        ],
+        "similarity_score": 0.65
+    },
+    {
+        "cv_id": 9,
+        "cv_title": "Consultant en S\u00e9curit\u00e9 des Syst\u00e8mes d'Information",
+        "cv_skills": [
+            "Gouvernance des SI",
+            "Connaissance des normes ISO 27001",
+            "Audit",
+            "Pare-feu",
+            "Analyse de risques",
+            "Gestion des incidents",
+            "Sensibilisation \u00e0 la s\u00e9curit\u00e9"
+        ],
+        "cv_experiences": [
+            "Consultant en S\u00e9curit\u00e9 des Syst\u00e8mes d'Information chez Cabinet de Conseil - 4 ans"
+        ],
+        "similarity_score": 0.6
+    },
+    {
+        "cv_id": 10,
+        "cv_title": "\u00c9tudiant en Gestion avec Exp\u00e9rience en Saisie de Donn\u00e9es",
+        "cv_skills": [
+            "Saisie de donn\u00e9es",
+            "Rapidit\u00e9 de frappe",
+            "Pr\u00e9cision",
+            "Microsoft Word",
+            "Excel",
+            "Organisation",
+            "Esprit d'\u00e9quipe"
+        ],
+        "cv_experiences": [
+            "Op\u00e9rateur de saisie de donn\u00e9es chez Cabinet Comptable - Job d'\u00e9t\u00e9 - 2 mois"
+        ],
+        "similarity_score": 0.92
+    },
+    {
+        "cv_id": 11,
+        "cv_title": "\u00c9tudiant en Informatique Cherchant Stage en Saisie de Donn\u00e9es",
+        "cv_skills": [
+            "Saisie de donn\u00e9es",
+            "Rapidit\u00e9 de frappe",
+            "Pr\u00e9cision",
+            "Connaissance des logiciels de traitement de texte",
+            "Organisation",
+            "Algorithmique",
+            "Esprit d'\u00e9quipe"
+        ],
+        "cv_experiences": [
+            "Stage en D\u00e9veloppement Web chez Startup - 3 mois"
+        ],
+        "similarity_score": 0.85
+    },
+    {
+        "cv_id": 12,
+        "cv_title": "\u00c9tudiant en Communication Cherchant une Opportunit\u00e9 de Stage",
+        "cv_skills": [
+            "R\u00e9daction",
+            "Pr\u00e9cision",
+            "Connaissance des logiciels de traitement de texte",
+            "Organisation",
+            "Cr\u00e9ativit\u00e9",
+            "Esprit d'\u00e9quipe",
+            "R\u00e9seaux sociaux"
+        ],
+        "cv_experiences": [
+            "Stage en Communication chez Agence de Relations Publiques - 3 mois"
+        ]
+    }
+]
